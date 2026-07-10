@@ -3,6 +3,14 @@
   "version": 4,
   "companies": [
     {
+      "id": "1password",
+      "name": "1Password",
+      "aliases": [
+        "AgileBits"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/1password.png"
+    },
+    {
       "id": "adobe",
       "name": "Adobe",
       "aliases": [
@@ -27,6 +35,14 @@
       "logoAsset": "assets/catalog/logos/companies/apple.png"
     },
     {
+      "id": "babbel",
+      "name": "Babbel",
+      "aliases": [
+        "Lesson Nine"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/babbel.png"
+    },
+    {
       "id": "canva",
       "name": "Canva",
       "aliases": [],
@@ -47,6 +63,15 @@
       "logoAsset": "assets/catalog/logos/companies/deezer.png"
     },
     {
+      "id": "der-spiegel",
+      "name": "Der Spiegel",
+      "aliases": [
+        "Spiegel",
+        "Spiegel-Verlag"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/der-spiegel.png"
+    },
+    {
       "id": "deutsche-telekom",
       "name": "Deutsche Telekom",
       "aliases": [
@@ -54,6 +79,12 @@
         "Magenta"
       ],
       "logoAsset": "assets/catalog/logos/companies/deutsche-telekom.png"
+    },
+    {
+      "id": "discord",
+      "name": "Discord",
+      "aliases": [],
+      "logoAsset": "assets/catalog/logos/companies/discord.png"
     },
     {
       "id": "disney",
@@ -82,6 +113,22 @@
         "EA"
       ],
       "logoAsset": "assets/catalog/logos/companies/electronic-arts.png"
+    },
+    {
+      "id": "evernote",
+      "name": "Evernote",
+      "aliases": [
+        "Bending Spoons"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/evernote.png"
+    },
+    {
+      "id": "expressvpn",
+      "name": "ExpressVPN",
+      "aliases": [
+        "Express VPN"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/expressvpn.png"
     },
     {
       "id": "financial-times",
@@ -127,6 +174,14 @@
       "logoAsset": "assets/catalog/logos/companies/gymondo.png"
     },
     {
+      "id": "headspace",
+      "name": "Headspace",
+      "aliases": [
+        "Headspace Health"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/headspace.png"
+    },
+    {
       "id": "komoot",
       "name": "Komoot",
       "aliases": [],
@@ -141,10 +196,25 @@
       "logoAsset": "assets/catalog/logos/companies/microsoft.png"
     },
     {
+      "id": "mubi",
+      "name": "MUBI",
+      "aliases": [],
+      "logoAsset": "assets/catalog/logos/companies/mubi.png"
+    },
+    {
       "id": "netflix",
       "name": "Netflix",
       "aliases": [],
       "logoAsset": "assets/catalog/logos/companies/netflix.png"
+    },
+    {
+      "id": "new-york-times",
+      "name": "The New York Times",
+      "aliases": [
+        "NYT",
+        "The New York Times Company"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/new-york-times.png"
     },
     {
       "id": "nintendo",
@@ -238,12 +308,26 @@
       "logoAsset": "assets/catalog/logos/companies/sony.png"
     },
     {
+      "id": "soundcloud",
+      "name": "SoundCloud",
+      "aliases": [],
+      "logoAsset": "assets/catalog/logos/companies/soundcloud.png"
+    },
+    {
       "id": "spotify",
       "name": "Spotify",
       "aliases": [
         "Spotify AB"
       ],
       "logoAsset": "assets/catalog/logos/companies/spotify.png"
+    },
+    {
+      "id": "storytel",
+      "name": "Storytel",
+      "aliases": [
+        "Storytel AB"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/storytel.png"
     },
     {
       "id": "strava",
@@ -291,6 +375,15 @@
       "logoAsset": "assets/catalog/logos/companies/vodafone.png"
     },
     {
+      "id": "wall-street-journal",
+      "name": "The Wall Street Journal",
+      "aliases": [
+        "Dow Jones",
+        "News Corp"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/wall-street-journal.png"
+    },
+    {
       "id": "warner-bros-discovery",
       "name": "Warner Bros. Discovery",
       "aliases": [
@@ -299,9 +392,38 @@
         "HBO"
       ],
       "logoAsset": "assets/catalog/logos/companies/warner-bros-discovery.png"
+    },
+    {
+      "id": "washington-post",
+      "name": "The Washington Post",
+      "aliases": [
+        "WaPo",
+        "Nash Holdings"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/washington-post.png"
     }
   ],
   "services": [
+    {
+      "id": "1password",
+      "name": "1Password",
+      "companyId": "1password",
+      "logoAsset": "assets/catalog/logos/services/1password.png",
+      "category": "software",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "43.80"
+      },
+      "cancelUrl": "https://my.1password.com/",
+      "aliases": [
+        "1PASSWORD",
+        "AGILEBITS",
+        "1PASSWORD.COM",
+        "PADDLE* 1PASSWORD"
+      ],
+      "trialDays": 14,
+      "verified": false
+    },
     {
       "id": "adobe-creative-cloud",
       "name": "Adobe Creative Cloud",
@@ -309,10 +431,37 @@
       "logoAsset": "assets/catalog/logos/services/adobe-creative-cloud.png",
       "category": "software",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "67.57" },
+      "defaultPrices": {
+        "EUR": "67.57"
+      },
       "cancelUrl": "https://account.adobe.com/plans",
-      "aliases": ["ADOBE", "ADOBE CREATIVE CLOUD", "ADOBE SYSTEMS", "ADOBE.COM"],
+      "aliases": [
+        "ADOBE",
+        "ADOBE CREATIVE CLOUD",
+        "ADOBE SYSTEMS",
+        "ADOBE.COM"
+      ],
       "trialDays": 7,
+      "verified": false
+    },
+    {
+      "id": "amazon-music-unlimited",
+      "name": "Amazon Music Unlimited",
+      "companyId": "amazon",
+      "logoAsset": "assets/catalog/logos/services/amazon-music-unlimited.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "10.99"
+      },
+      "cancelUrl": "https://www.amazon.de/gp/subscriptions",
+      "aliases": [
+        "AMAZON MUSIC",
+        "AMAZON MUSIC UNLIMITED",
+        "AMZN MUSIC",
+        "AMAZON DIGITAL MUSIC"
+      ],
+      "trialDays": 30,
       "verified": false
     },
     {
@@ -322,9 +471,16 @@
       "logoAsset": "assets/catalog/logos/services/amazon-prime.png",
       "category": "streaming",
       "defaultIntervalMonths": 12,
-      "defaultPrices": { "EUR": "89.00" },
+      "defaultPrices": {
+        "EUR": "89.00"
+      },
       "cancelUrl": "https://www.amazon.de/gp/primecentral",
-      "aliases": ["AMAZON PRIME", "AMZNPRIME", "AMAZON DIGITAL", "AMAZON EU SARL"],
+      "aliases": [
+        "AMAZON PRIME",
+        "AMZNPRIME",
+        "AMAZON DIGITAL",
+        "AMAZON EU SARL"
+      ],
       "trialDays": 30,
       "verified": true
     },
@@ -335,9 +491,36 @@
       "logoAsset": "assets/catalog/logos/services/apple-arcade.png",
       "category": "gaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "6.99" },
+      "defaultPrices": {
+        "EUR": "6.99"
+      },
       "cancelUrl": "https://support.apple.com/billing",
-      "aliases": ["APPLE.COM/BILL", "APPLE ARCADE", "ITUNES.COM/BILL", "APL* ITUNES.COM"],
+      "aliases": [
+        "APPLE.COM/BILL",
+        "APPLE ARCADE",
+        "ITUNES.COM/BILL",
+        "APL* ITUNES.COM"
+      ],
+      "trialDays": 30,
+      "verified": false
+    },
+    {
+      "id": "apple-fitness-plus",
+      "name": "Apple Fitness+",
+      "companyId": "apple",
+      "logoAsset": "assets/catalog/logos/services/apple-fitness-plus.png",
+      "category": "fitness",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
+      "cancelUrl": "https://support.apple.com/billing",
+      "aliases": [
+        "APPLE.COM/BILL",
+        "APPLE FITNESS",
+        "APPLE FITNESS+",
+        "APL* FITNESS"
+      ],
       "trialDays": 30,
       "verified": false
     },
@@ -348,9 +531,16 @@
       "logoAsset": "assets/catalog/logos/services/apple-music.png",
       "category": "streaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "10.99" },
+      "defaultPrices": {
+        "EUR": "10.99"
+      },
       "cancelUrl": "https://support.apple.com/billing",
-      "aliases": ["APPLE.COM/BILL", "APPLE MUSIC", "ITUNES.COM/BILL", "APL* ITUNES.COM"],
+      "aliases": [
+        "APPLE.COM/BILL",
+        "APPLE MUSIC",
+        "ITUNES.COM/BILL",
+        "APL* ITUNES.COM"
+      ],
       "trialDays": 30,
       "verified": false
     },
@@ -361,9 +551,16 @@
       "logoAsset": "assets/catalog/logos/services/apple-tv-plus.png",
       "category": "streaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "9.99" },
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
       "cancelUrl": "https://support.apple.com/billing",
-      "aliases": ["APPLE.COM/BILL", "APPLE TV", "APPLE TV+", "ITUNES.COM/BILL"],
+      "aliases": [
+        "APPLE.COM/BILL",
+        "APPLE TV",
+        "APPLE TV+",
+        "ITUNES.COM/BILL"
+      ],
       "trialDays": 7,
       "verified": false
     },
@@ -374,10 +571,37 @@
       "logoAsset": "assets/catalog/logos/services/audible.png",
       "category": "other",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "9.95" },
+      "defaultPrices": {
+        "EUR": "9.95"
+      },
       "cancelUrl": "https://www.audible.de/account/membership",
-      "aliases": ["AUDIBLE", "AUDIBLE.DE", "AUDIBLE EU", "AMZN AUDIBLE"],
+      "aliases": [
+        "AUDIBLE",
+        "AUDIBLE.DE",
+        "AUDIBLE EU",
+        "AMZN AUDIBLE"
+      ],
       "trialDays": 30,
+      "verified": false
+    },
+    {
+      "id": "babbel",
+      "name": "Babbel",
+      "companyId": "babbel",
+      "logoAsset": "assets/catalog/logos/services/babbel.png",
+      "category": "software",
+      "defaultIntervalMonths": 3,
+      "defaultPrices": {
+        "EUR": "38.97"
+      },
+      "cancelUrl": "https://my.babbel.com/en/account/subscription",
+      "aliases": [
+        "BABBEL",
+        "BABBEL.COM",
+        "LESSON NINE",
+        "PAYPAL *BABBEL"
+      ],
+      "trialDays": 0,
       "verified": false
     },
     {
@@ -387,9 +611,16 @@
       "logoAsset": "assets/catalog/logos/services/canva-pro.png",
       "category": "software",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "12.00" },
+      "defaultPrices": {
+        "EUR": "12.00"
+      },
       "cancelUrl": "https://www.canva.com/settings/billing-and-plans",
-      "aliases": ["CANVA", "CANVA PRO", "CANVA PTY LTD", "CANVA.COM"],
+      "aliases": [
+        "CANVA",
+        "CANVA PRO",
+        "CANVA PTY LTD",
+        "CANVA.COM"
+      ],
       "trialDays": 30,
       "verified": false
     },
@@ -400,9 +631,16 @@
       "logoAsset": "assets/catalog/logos/services/chatgpt-plus.png",
       "category": "software",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "20.00" },
+      "defaultPrices": {
+        "EUR": "20.00"
+      },
       "cancelUrl": "https://chatgpt.com/#settings/Subscription",
-      "aliases": ["OPENAI", "CHATGPT", "OPENAI *CHATGPT", "CHATGPT SUBSCRIPTION"],
+      "aliases": [
+        "OPENAI",
+        "CHATGPT",
+        "OPENAI *CHATGPT",
+        "CHATGPT SUBSCRIPTION"
+      ],
       "trialDays": 0,
       "verified": false
     },
@@ -413,9 +651,16 @@
       "logoAsset": "assets/catalog/logos/services/crunchyroll.png",
       "category": "streaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "6.99" },
+      "defaultPrices": {
+        "EUR": "6.99"
+      },
       "cancelUrl": "https://www.crunchyroll.com/account/membership",
-      "aliases": ["CRUNCHYROLL", "CRUNCHYROLL.COM", "ELLATION", "PAYPAL *CRUNCHYROLL"],
+      "aliases": [
+        "CRUNCHYROLL",
+        "CRUNCHYROLL.COM",
+        "ELLATION",
+        "PAYPAL *CRUNCHYROLL"
+      ],
       "trialDays": 7,
       "verified": false
     },
@@ -426,9 +671,16 @@
       "logoAsset": "assets/catalog/logos/services/dazn.png",
       "category": "streaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "34.99" },
+      "defaultPrices": {
+        "EUR": "34.99"
+      },
       "cancelUrl": "https://www.dazn.com/myaccount/subscription",
-      "aliases": ["DAZN", "DAZN LIMITED", "DAZN.COM", "PAYPAL *DAZN"],
+      "aliases": [
+        "DAZN",
+        "DAZN LIMITED",
+        "DAZN.COM",
+        "PAYPAL *DAZN"
+      ],
       "trialDays": 0,
       "verified": false
     },
@@ -439,10 +691,38 @@
       "logoAsset": "assets/catalog/logos/services/deezer.png",
       "category": "streaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "11.99" },
+      "defaultPrices": {
+        "EUR": "11.99"
+      },
       "cancelUrl": "https://www.deezer.com/account/subscription",
-      "aliases": ["DEEZER", "DEEZER PREMIUM", "DEEZER.COM", "PAYPAL *DEEZER"],
+      "aliases": [
+        "DEEZER",
+        "DEEZER PREMIUM",
+        "DEEZER.COM",
+        "PAYPAL *DEEZER"
+      ],
       "trialDays": 30,
+      "verified": false
+    },
+    {
+      "id": "discord-nitro",
+      "name": "Discord Nitro",
+      "companyId": "discord",
+      "logoAsset": "assets/catalog/logos/services/discord-nitro.png",
+      "category": "gaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
+      "cancelUrl": "https://discord.com/settings/subscriptions",
+      "aliases": [
+        "DISCORD",
+        "DISCORD NITRO",
+        "DISCORD.COM",
+        "PAYPAL *DISCORD"
+      ],
+      "cancelGuide": "Cancel under User Settings then Subscriptions. Nitro perks remain until the paid period ends.",
+      "trialDays": 0,
       "verified": false
     },
     {
@@ -452,9 +732,16 @@
       "logoAsset": "assets/catalog/logos/services/discovery-plus.png",
       "category": "streaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "5.99" },
+      "defaultPrices": {
+        "EUR": "5.99"
+      },
       "cancelUrl": "https://auth.discoveryplus.com/account/subscription",
-      "aliases": ["DISCOVERY+", "DISCOVERY PLUS", "DISCOVERYPLUS", "DPLAY"],
+      "aliases": [
+        "DISCOVERY+",
+        "DISCOVERY PLUS",
+        "DISCOVERYPLUS",
+        "DPLAY"
+      ],
       "trialDays": 7,
       "verified": false
     },
@@ -465,9 +752,16 @@
       "logoAsset": "assets/catalog/logos/services/disney-plus.png",
       "category": "streaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "9.99" },
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
       "cancelUrl": "https://www.disneyplus.com/account/subscription",
-      "aliases": ["DISNEY PLUS", "DISNEY+", "DISNEYPLUS", "PAYPAL *DISNEYPLUS"],
+      "aliases": [
+        "DISNEY PLUS",
+        "DISNEY+",
+        "DISNEYPLUS",
+        "PAYPAL *DISNEYPLUS"
+      ],
       "trialDays": 0,
       "verified": false
     },
@@ -478,9 +772,16 @@
       "logoAsset": "assets/catalog/logos/services/dropbox-plus.png",
       "category": "storage",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "11.99" },
+      "defaultPrices": {
+        "EUR": "11.99"
+      },
       "cancelUrl": "https://www.dropbox.com/account/plan",
-      "aliases": ["DROPBOX", "DROPBOX PLUS", "DROPBOX*PLUS", "DROPBOX.COM"],
+      "aliases": [
+        "DROPBOX",
+        "DROPBOX PLUS",
+        "DROPBOX*PLUS",
+        "DROPBOX.COM"
+      ],
       "trialDays": 30,
       "verified": false
     },
@@ -491,9 +792,16 @@
       "logoAsset": "assets/catalog/logos/services/duolingo-super.png",
       "category": "software",
       "defaultIntervalMonths": 12,
-      "defaultPrices": { "EUR": "87.99" },
+      "defaultPrices": {
+        "EUR": "87.99"
+      },
       "cancelUrl": "https://www.duolingo.com/settings/super",
-      "aliases": ["DUOLINGO", "SUPER DUOLINGO", "DUOLINGO.COM", "GOOGLE *DUOLINGO"],
+      "aliases": [
+        "DUOLINGO",
+        "SUPER DUOLINGO",
+        "DUOLINGO.COM",
+        "GOOGLE *DUOLINGO"
+      ],
       "trialDays": 14,
       "verified": false
     },
@@ -504,9 +812,56 @@
       "logoAsset": "assets/catalog/logos/services/ea-play.png",
       "category": "gaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "5.99" },
+      "defaultPrices": {
+        "EUR": "5.99"
+      },
       "cancelUrl": "https://www.ea.com/ea-play",
-      "aliases": ["EA PLAY", "ELECTRONIC ARTS", "EA.COM", "PAYPAL *EA"],
+      "aliases": [
+        "EA PLAY",
+        "ELECTRONIC ARTS",
+        "EA.COM",
+        "PAYPAL *EA"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "evernote",
+      "name": "Evernote",
+      "companyId": "evernote",
+      "logoAsset": "assets/catalog/logos/services/evernote.png",
+      "category": "software",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "79.99"
+      },
+      "cancelUrl": "https://www.evernote.com/AccountSummary.action",
+      "aliases": [
+        "EVERNOTE",
+        "EVERNOTE.COM",
+        "EVERNOTE CORP",
+        "BENDING SPOONS"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "expressvpn",
+      "name": "ExpressVPN",
+      "companyId": "expressvpn",
+      "logoAsset": "assets/catalog/logos/services/expressvpn.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "12.99"
+      },
+      "cancelUrl": "https://www.expressvpn.com/subscriptions",
+      "aliases": [
+        "EXPRESSVPN",
+        "EXPRESS VPN",
+        "EXPRESSVPN.COM",
+        "PAYPAL *EXPRESSVPN"
+      ],
       "trialDays": 0,
       "verified": false
     },
@@ -517,9 +872,16 @@
       "logoAsset": "assets/catalog/logos/services/financial-times-digital.png",
       "category": "news",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "45.00" },
+      "defaultPrices": {
+        "EUR": "45.00"
+      },
       "cancelUrl": "https://www.ft.com/myaccount",
-      "aliases": ["FINANCIAL TIMES", "FT.COM", "FT DIGITAL", "PAYPAL *FINANCIALTIMES"],
+      "aliases": [
+        "FINANCIAL TIMES",
+        "FT.COM",
+        "FT DIGITAL",
+        "PAYPAL *FINANCIALTIMES"
+      ],
       "trialDays": 30,
       "verified": false
     },
@@ -530,9 +892,16 @@
       "logoAsset": "assets/catalog/logos/services/fitbit-premium.png",
       "category": "fitness",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "8.99" },
+      "defaultPrices": {
+        "EUR": "8.99"
+      },
       "cancelUrl": "https://support.google.com/fitbit/answer/14236809",
-      "aliases": ["FITBIT", "FITBIT PREMIUM", "GOOGLE *FITBIT", "FITBIT PAY"],
+      "aliases": [
+        "FITBIT",
+        "FITBIT PREMIUM",
+        "GOOGLE *FITBIT",
+        "FITBIT PAY"
+      ],
       "trialDays": 90,
       "verified": false
     },
@@ -543,9 +912,16 @@
       "logoAsset": "assets/catalog/logos/services/freeletics.png",
       "category": "fitness",
       "defaultIntervalMonths": 12,
-      "defaultPrices": { "EUR": "74.99" },
+      "defaultPrices": {
+        "EUR": "74.99"
+      },
       "cancelUrl": "https://help.freeletics.com/hc/en-us/articles/115003454109",
-      "aliases": ["FREELETICS", "FREELETICS GMBH", "FREELETICS.COM", "PAYPAL *FREELETICS"],
+      "aliases": [
+        "FREELETICS",
+        "FREELETICS GMBH",
+        "FREELETICS.COM",
+        "PAYPAL *FREELETICS"
+      ],
       "trialDays": 0,
       "verified": false
     },
@@ -556,9 +932,16 @@
       "logoAsset": "assets/catalog/logos/services/geforce-now-performance.png",
       "category": "gaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "10.99" },
+      "defaultPrices": {
+        "EUR": "10.99"
+      },
       "cancelUrl": "https://www.nvidia.com/account/gfn/",
-      "aliases": ["GEFORCE NOW", "NVIDIA GEFORCE NOW", "NVIDIA", "PAYPAL *NVIDIA"],
+      "aliases": [
+        "GEFORCE NOW",
+        "NVIDIA GEFORCE NOW",
+        "NVIDIA",
+        "PAYPAL *NVIDIA"
+      ],
       "trialDays": 0,
       "verified": false
     },
@@ -569,11 +952,38 @@
       "logoAsset": "assets/catalog/logos/services/google-one-100gb.png",
       "category": "storage",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "1.99" },
+      "defaultPrices": {
+        "EUR": "1.99"
+      },
       "cancelUrl": "https://one.google.com/settings",
-      "aliases": ["GOOGLE ONE", "GOOGLE STORAGE", "GOOGLE *Google One", "GOOGLE *STORAGE"],
+      "aliases": [
+        "GOOGLE ONE",
+        "GOOGLE STORAGE",
+        "GOOGLE *Google One",
+        "GOOGLE *STORAGE"
+      ],
       "trialDays": 0,
       "verified": true
+    },
+    {
+      "id": "google-one-2tb",
+      "name": "Google One 2 TB",
+      "companyId": "google",
+      "logoAsset": "assets/catalog/logos/services/google-one-2tb.png",
+      "category": "storage",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
+      "cancelUrl": "https://one.google.com/settings",
+      "aliases": [
+        "GOOGLE ONE",
+        "GOOGLE ONE 2TB",
+        "GOOGLE *Google One",
+        "GOOGLE *STORAGE"
+      ],
+      "trialDays": 0,
+      "verified": false
     },
     {
       "id": "grammarly-pro",
@@ -582,9 +992,16 @@
       "logoAsset": "assets/catalog/logos/services/grammarly-pro.png",
       "category": "software",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "30.00" },
+      "defaultPrices": {
+        "EUR": "30.00"
+      },
       "cancelUrl": "https://account.grammarly.com/subscription",
-      "aliases": ["GRAMMARLY", "GRAMMARLY.COM", "GRAMMARLY PRO", "PAYPAL *GRAMMARLY"],
+      "aliases": [
+        "GRAMMARLY",
+        "GRAMMARLY.COM",
+        "GRAMMARLY PRO",
+        "PAYPAL *GRAMMARLY"
+      ],
       "trialDays": 7,
       "verified": false
     },
@@ -595,9 +1012,16 @@
       "logoAsset": "assets/catalog/logos/services/guardian-digital.png",
       "category": "news",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "9.99" },
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
       "cancelUrl": "https://manage.theguardian.com/",
-      "aliases": ["THE GUARDIAN", "GUARDIAN NEWS", "GUARDIAN DIGITAL", "GUARDIAN SUBS"],
+      "aliases": [
+        "THE GUARDIAN",
+        "GUARDIAN NEWS",
+        "GUARDIAN DIGITAL",
+        "GUARDIAN SUBS"
+      ],
       "trialDays": 0,
       "verified": false
     },
@@ -608,10 +1032,57 @@
       "logoAsset": "assets/catalog/logos/services/gymondo.png",
       "category": "fitness",
       "defaultIntervalMonths": 12,
-      "defaultPrices": { "EUR": "83.88" },
+      "defaultPrices": {
+        "EUR": "83.88"
+      },
       "cancelUrl": "https://www.gymondo.com/account/membership",
-      "aliases": ["GYMONDO", "GYMONDO GMBH", "GYMONDO.COM", "PAYPAL *GYMONDO"],
+      "aliases": [
+        "GYMONDO",
+        "GYMONDO GMBH",
+        "GYMONDO.COM",
+        "PAYPAL *GYMONDO"
+      ],
       "trialDays": 7,
+      "verified": false
+    },
+    {
+      "id": "headspace",
+      "name": "Headspace",
+      "companyId": "headspace",
+      "logoAsset": "assets/catalog/logos/services/headspace.png",
+      "category": "fitness",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "57.99"
+      },
+      "cancelUrl": "https://my.headspace.com/",
+      "aliases": [
+        "HEADSPACE",
+        "HEADSPACE.COM",
+        "HEADSPACE INC",
+        "PAYPAL *HEADSPACE"
+      ],
+      "trialDays": 14,
+      "verified": false
+    },
+    {
+      "id": "icloud-plus-200gb",
+      "name": "iCloud+ 200 GB",
+      "companyId": "apple",
+      "logoAsset": "assets/catalog/logos/services/icloud-plus-200gb.png",
+      "category": "storage",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "2.99"
+      },
+      "cancelUrl": "https://support.apple.com/billing",
+      "aliases": [
+        "APPLE.COM/BILL",
+        "ICLOUD",
+        "ICLOUD+ 200GB",
+        "APL* ICLOUD"
+      ],
+      "trialDays": 0,
       "verified": false
     },
     {
@@ -621,11 +1092,39 @@
       "logoAsset": "assets/catalog/logos/services/icloud-plus-50gb.png",
       "category": "storage",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "0.99" },
+      "defaultPrices": {
+        "EUR": "0.99"
+      },
       "cancelUrl": "https://support.apple.com/billing",
-      "aliases": ["APPLE.COM/BILL", "ICLOUD", "ICLOUD+", "APL* ICLOUD"],
+      "aliases": [
+        "APPLE.COM/BILL",
+        "ICLOUD",
+        "ICLOUD+",
+        "APL* ICLOUD"
+      ],
       "trialDays": 0,
       "verified": true
+    },
+    {
+      "id": "kindle-unlimited",
+      "name": "Kindle Unlimited",
+      "companyId": "amazon",
+      "logoAsset": "assets/catalog/logos/services/kindle-unlimited.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
+      "cancelUrl": "https://www.amazon.de/kindle-dbs/hz/subscribe/ku",
+      "aliases": [
+        "KINDLE UNLIMITED",
+        "AMZN KINDLE",
+        "AMAZON KINDLE UNLTD",
+        "KINDLEUNLIMITED"
+      ],
+      "cancelGuide": "Manage or cancel from Amazon under Your Memberships and Subscriptions then Kindle Unlimited.",
+      "trialDays": 30,
+      "verified": false
     },
     {
       "id": "komoot-premium",
@@ -634,11 +1133,38 @@
       "logoAsset": "assets/catalog/logos/services/komoot-premium.png",
       "category": "fitness",
       "defaultIntervalMonths": 12,
-      "defaultPrices": { "EUR": "59.99" },
+      "defaultPrices": {
+        "EUR": "59.99"
+      },
       "cancelUrl": "https://www.komoot.com/account/premium",
-      "aliases": ["KOMOOT", "KOMOOT PREMIUM", "KOMOOT GMBH", "PAYPAL *KOMOOT"],
+      "aliases": [
+        "KOMOOT",
+        "KOMOOT PREMIUM",
+        "KOMOOT GMBH",
+        "PAYPAL *KOMOOT"
+      ],
       "trialDays": 0,
       "verified": true
+    },
+    {
+      "id": "linkedin-premium-career",
+      "name": "LinkedIn Premium Career",
+      "companyId": "microsoft",
+      "logoAsset": "assets/catalog/logos/services/linkedin-premium-career.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "29.99"
+      },
+      "cancelUrl": "https://www.linkedin.com/premium/manage",
+      "aliases": [
+        "LINKEDIN",
+        "LINKEDIN PREMIUM",
+        "LNKD*LINKEDIN",
+        "MICROSOFT*LINKEDIN"
+      ],
+      "trialDays": 30,
+      "verified": false
     },
     {
       "id": "magenta-tv",
@@ -647,9 +1173,16 @@
       "logoAsset": "assets/catalog/logos/services/magenta-tv.png",
       "category": "telco",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "10.00" },
+      "defaultPrices": {
+        "EUR": "10.00"
+      },
       "cancelUrl": "https://www.telekom.de/kontakt",
-      "aliases": ["MAGENTA TV", "MAGENTATV", "TELEKOM", "DEUTSCHE TELEKOM"],
+      "aliases": [
+        "MAGENTA TV",
+        "MAGENTATV",
+        "TELEKOM",
+        "DEUTSCHE TELEKOM"
+      ],
       "trialDays": 0,
       "verified": false
     },
@@ -660,10 +1193,37 @@
       "logoAsset": "assets/catalog/logos/services/max-standard.png",
       "category": "streaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "9.99" },
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
       "cancelUrl": "https://auth.max.com/subscription",
-      "aliases": ["MAX", "HBO MAX", "WARNER BROS DISCOVERY", "PAYPAL *MAX"],
+      "aliases": [
+        "MAX",
+        "HBO MAX",
+        "WARNER BROS DISCOVERY",
+        "PAYPAL *MAX"
+      ],
       "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "microsoft-365-basic",
+      "name": "Microsoft 365 Basic",
+      "companyId": "microsoft",
+      "logoAsset": "assets/catalog/logos/services/microsoft-365-basic.png",
+      "category": "storage",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "2.00"
+      },
+      "cancelUrl": "https://account.microsoft.com/services",
+      "aliases": [
+        "MICROSOFT 365 BASIC",
+        "ONEDRIVE",
+        "MSFT *ONEDRIVE",
+        "MICROSOFT*365"
+      ],
+      "trialDays": 30,
       "verified": false
     },
     {
@@ -673,10 +1233,37 @@
       "logoAsset": "assets/catalog/logos/services/microsoft-365-personal.png",
       "category": "software",
       "defaultIntervalMonths": 12,
-      "defaultPrices": { "EUR": "69.00" },
+      "defaultPrices": {
+        "EUR": "69.00"
+      },
       "cancelUrl": "https://account.microsoft.com/services",
-      "aliases": ["MICROSOFT 365", "MSFT *OFFICE", "MICROSOFT*SUBSCRIPTION", "MSFT *E0100"],
+      "aliases": [
+        "MICROSOFT 365",
+        "MSFT *OFFICE",
+        "MICROSOFT*SUBSCRIPTION",
+        "MSFT *E0100"
+      ],
       "trialDays": 30,
+      "verified": false
+    },
+    {
+      "id": "mubi",
+      "name": "MUBI",
+      "companyId": "mubi",
+      "logoAsset": "assets/catalog/logos/services/mubi.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "18.99"
+      },
+      "cancelUrl": "https://mubi.com/account",
+      "aliases": [
+        "MUBI",
+        "MUBI.COM",
+        "MUBI LTD",
+        "PAYPAL *MUBI"
+      ],
+      "trialDays": 7,
       "verified": false
     },
     {
@@ -686,10 +1273,37 @@
       "logoAsset": "assets/catalog/logos/services/netflix-standard.png",
       "category": "streaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "13.99" },
+      "defaultPrices": {
+        "EUR": "13.99"
+      },
       "cancelUrl": "https://www.netflix.com/cancelplan",
       "cancelGuide": "Sign in at netflix.com, open Account, then select Cancel Membership. Access continues until the end of the current billing period.",
-      "aliases": ["NETFLIX", "NETFLIX.COM", "NETFLIX INTL", "PAYPAL *NETFLIX"],
+      "aliases": [
+        "NETFLIX",
+        "NETFLIX.COM",
+        "NETFLIX INTL",
+        "PAYPAL *NETFLIX"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "new-york-times-digital",
+      "name": "The New York Times Digital",
+      "companyId": "new-york-times",
+      "logoAsset": "assets/catalog/logos/services/new-york-times-digital.png",
+      "category": "news",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "23.00"
+      },
+      "cancelUrl": "https://www.nytimes.com/account/subscription/overview",
+      "aliases": [
+        "NYTIMES",
+        "NEW YORK TIMES",
+        "NYTIMES.COM",
+        "NYT DIGITAL"
+      ],
       "trialDays": 0,
       "verified": false
     },
@@ -700,11 +1314,38 @@
       "logoAsset": "assets/catalog/logos/services/nintendo-switch-online.png",
       "category": "gaming",
       "defaultIntervalMonths": 12,
-      "defaultPrices": { "EUR": "19.99" },
+      "defaultPrices": {
+        "EUR": "19.99"
+      },
       "cancelUrl": "https://accounts.nintendo.com/",
-      "aliases": ["NINTENDO", "NINTENDO SWITCH ONLINE", "NINTENDO ESHOP", "NINTENDO OF EUROPE"],
+      "aliases": [
+        "NINTENDO",
+        "NINTENDO SWITCH ONLINE",
+        "NINTENDO ESHOP",
+        "NINTENDO OF EUROPE"
+      ],
       "trialDays": 7,
       "verified": true
+    },
+    {
+      "id": "nintendo-switch-online-expansion",
+      "name": "Nintendo Switch Online + Expansion Pack",
+      "companyId": "nintendo",
+      "logoAsset": "assets/catalog/logos/services/nintendo-switch-online-expansion.png",
+      "category": "gaming",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "39.99"
+      },
+      "cancelUrl": "https://accounts.nintendo.com/",
+      "aliases": [
+        "NINTENDO",
+        "SWITCH ONLINE EXPANSION",
+        "NINTENDO ESHOP",
+        "NSO EXPANSION PACK"
+      ],
+      "trialDays": 7,
+      "verified": false
     },
     {
       "id": "nordvpn-standard",
@@ -713,9 +1354,16 @@
       "logoAsset": "assets/catalog/logos/services/nordvpn-standard.png",
       "category": "software",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "12.99" },
+      "defaultPrices": {
+        "EUR": "12.99"
+      },
       "cancelUrl": "https://my.nordaccount.com/billing/",
-      "aliases": ["NORDVPN", "NORD VPN", "NORDSEC", "PAYPAL *NORDVPN"],
+      "aliases": [
+        "NORDVPN",
+        "NORD VPN",
+        "NORDSEC",
+        "PAYPAL *NORDVPN"
+      ],
       "trialDays": 0,
       "verified": false
     },
@@ -726,9 +1374,16 @@
       "logoAsset": "assets/catalog/logos/services/notion-plus.png",
       "category": "software",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "10.00" },
+      "defaultPrices": {
+        "EUR": "10.00"
+      },
       "cancelUrl": "https://www.notion.so/my-account",
-      "aliases": ["NOTION", "NOTION LABS", "NOTION PLUS", "NOTION.SO"],
+      "aliases": [
+        "NOTION",
+        "NOTION LABS",
+        "NOTION PLUS",
+        "NOTION.SO"
+      ],
       "trialDays": 0,
       "verified": false
     },
@@ -739,9 +1394,16 @@
       "logoAsset": "assets/catalog/logos/services/o2-tv.png",
       "category": "telco",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "9.99" },
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
       "cancelUrl": "https://www.o2online.de/service/vertrag-tarif/kuendigung/",
-      "aliases": ["O2 TV", "O2ONLINE", "TELEFONICA", "O2 DE"],
+      "aliases": [
+        "O2 TV",
+        "O2ONLINE",
+        "TELEFONICA",
+        "O2 DE"
+      ],
       "trialDays": 30,
       "verified": false
     },
@@ -752,9 +1414,16 @@
       "logoAsset": "assets/catalog/logos/services/paramount-plus.png",
       "category": "streaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "7.99" },
+      "defaultPrices": {
+        "EUR": "7.99"
+      },
       "cancelUrl": "https://www.paramountplus.com/account/",
-      "aliases": ["PARAMOUNT+", "PARAMOUNT PLUS", "PARAMOUNTPLUS", "CBS PARAMOUNT"],
+      "aliases": [
+        "PARAMOUNT+",
+        "PARAMOUNT PLUS",
+        "PARAMOUNTPLUS",
+        "CBS PARAMOUNT"
+      ],
       "trialDays": 7,
       "verified": false
     },
@@ -765,9 +1434,16 @@
       "logoAsset": "assets/catalog/logos/services/peloton-app.png",
       "category": "fitness",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "12.99" },
+      "defaultPrices": {
+        "EUR": "12.99"
+      },
       "cancelUrl": "https://members.onepeloton.com/preferences/subscriptions",
-      "aliases": ["PELOTON", "PELOTON APP", "ONEPELOTON", "PAYPAL *PELOTON"],
+      "aliases": [
+        "PELOTON",
+        "PELOTON APP",
+        "ONEPELOTON",
+        "PAYPAL *PELOTON"
+      ],
       "trialDays": 30,
       "verified": false
     },
@@ -778,9 +1454,16 @@
       "logoAsset": "assets/catalog/logos/services/playstation-plus-essential.png",
       "category": "gaming",
       "defaultIntervalMonths": 12,
-      "defaultPrices": { "EUR": "71.99" },
+      "defaultPrices": {
+        "EUR": "71.99"
+      },
       "cancelUrl": "https://www.playstation.com/support/store/cancel-ps-store-subscription/",
-      "aliases": ["PLAYSTATION PLUS", "PS PLUS", "PLAYSTATION NETWORK", "SONY INTERACTIVE"],
+      "aliases": [
+        "PLAYSTATION PLUS",
+        "PS PLUS",
+        "PLAYSTATION NETWORK",
+        "SONY INTERACTIVE"
+      ],
       "trialDays": 0,
       "verified": false
     },
@@ -791,9 +1474,16 @@
       "logoAsset": "assets/catalog/logos/services/proton-mail-plus.png",
       "category": "software",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "4.99" },
+      "defaultPrices": {
+        "EUR": "4.99"
+      },
       "cancelUrl": "https://account.proton.me/u/0/mail/dashboard",
-      "aliases": ["PROTON", "PROTON MAIL", "PROTON AG", "PAYPAL *PROTON"],
+      "aliases": [
+        "PROTON",
+        "PROTON MAIL",
+        "PROTON AG",
+        "PAYPAL *PROTON"
+      ],
       "trialDays": 0,
       "verified": false
     },
@@ -804,9 +1494,16 @@
       "logoAsset": "assets/catalog/logos/services/proton-vpn-plus.png",
       "category": "software",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "9.99" },
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
       "cancelUrl": "https://account.protonvpn.com/dashboard",
-      "aliases": ["PROTON VPN", "PROTONVPN", "PROTON AG", "PAYPAL *PROTONVPN"],
+      "aliases": [
+        "PROTON VPN",
+        "PROTONVPN",
+        "PROTON AG",
+        "PAYPAL *PROTONVPN"
+      ],
       "trialDays": 0,
       "verified": false
     },
@@ -817,9 +1514,16 @@
       "logoAsset": "assets/catalog/logos/services/revolut-premium.png",
       "category": "other",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "9.99" },
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
       "cancelUrl": "https://help.revolut.com/help/profile-and-plan/profile-plan/upgrading-my-plan/downgrading-my-plan/",
-      "aliases": ["REVOLUT PREMIUM", "REVOLUT", "REVOLUT BANK", "REVOLUT PLAN"],
+      "aliases": [
+        "REVOLUT PREMIUM",
+        "REVOLUT",
+        "REVOLUT BANK",
+        "REVOLUT PLAN"
+      ],
       "trialDays": 0,
       "verified": false
     },
@@ -830,10 +1534,57 @@
       "logoAsset": "assets/catalog/logos/services/skyshowtime-standard.png",
       "category": "streaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "7.99" },
+      "defaultPrices": {
+        "EUR": "7.99"
+      },
       "cancelUrl": "https://www.skyshowtime.com/account",
-      "aliases": ["SKYSHOWTIME", "SKY SHOWTIME", "SKYSHOWTIME.COM", "PAYPAL *SKYSHOWTIME"],
+      "aliases": [
+        "SKYSHOWTIME",
+        "SKY SHOWTIME",
+        "SKYSHOWTIME.COM",
+        "PAYPAL *SKYSHOWTIME"
+      ],
       "trialDays": 7,
+      "verified": false
+    },
+    {
+      "id": "soundcloud-go-plus",
+      "name": "SoundCloud Go+",
+      "companyId": "soundcloud",
+      "logoAsset": "assets/catalog/logos/services/soundcloud-go-plus.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "10.99"
+      },
+      "cancelUrl": "https://soundcloud.com/settings/subscriptions",
+      "aliases": [
+        "SOUNDCLOUD",
+        "SOUNDCLOUD GO+",
+        "SOUNDCLOUD GO",
+        "PAYPAL *SOUNDCLOUD"
+      ],
+      "trialDays": 30,
+      "verified": false
+    },
+    {
+      "id": "spiegel-plus",
+      "name": "Spiegel+",
+      "companyId": "der-spiegel",
+      "logoAsset": "assets/catalog/logos/services/spiegel-plus.png",
+      "category": "news",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "19.99"
+      },
+      "cancelUrl": "https://abo.spiegel.de/",
+      "aliases": [
+        "SPIEGEL",
+        "SPIEGEL PLUS",
+        "SPIEGEL+",
+        "DER SPIEGEL"
+      ],
+      "trialDays": 0,
       "verified": false
     },
     {
@@ -843,11 +1594,38 @@
       "logoAsset": "assets/catalog/logos/services/spotify-premium.png",
       "category": "streaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "11.99" },
+      "defaultPrices": {
+        "EUR": "11.99"
+      },
       "cancelUrl": "https://www.spotify.com/account/subscription/",
       "cancelGuide": "Open your Spotify account page in a browser, go to Available plans, and choose Cancel Premium. Your account reverts to the free tier after the paid period ends.",
-      "aliases": ["SPOTIFY", "SPOTIFY P", "SPOTIFY AB", "PAYPAL *SPOTIFY"],
+      "aliases": [
+        "SPOTIFY",
+        "SPOTIFY P",
+        "SPOTIFY AB",
+        "PAYPAL *SPOTIFY"
+      ],
       "trialDays": 30,
+      "verified": false
+    },
+    {
+      "id": "storytel",
+      "name": "Storytel",
+      "companyId": "storytel",
+      "logoAsset": "assets/catalog/logos/services/storytel.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
+      "cancelUrl": "https://www.storytel.com/account",
+      "aliases": [
+        "STORYTEL",
+        "STORYTEL.COM",
+        "STORYTEL AB",
+        "PAYPAL *STORYTEL"
+      ],
+      "trialDays": 7,
       "verified": false
     },
     {
@@ -857,9 +1635,16 @@
       "logoAsset": "assets/catalog/logos/services/strava-subscription.png",
       "category": "fitness",
       "defaultIntervalMonths": 12,
-      "defaultPrices": { "EUR": "69.99" },
+      "defaultPrices": {
+        "EUR": "69.99"
+      },
       "cancelUrl": "https://www.strava.com/settings/billing",
-      "aliases": ["STRAVA", "STRAVA SUBSCRIPTION", "STRAVA INC", "PAYPAL *STRAVA"],
+      "aliases": [
+        "STRAVA",
+        "STRAVA SUBSCRIPTION",
+        "STRAVA INC",
+        "PAYPAL *STRAVA"
+      ],
       "trialDays": 30,
       "verified": false
     },
@@ -870,9 +1655,16 @@
       "logoAsset": "assets/catalog/logos/services/the-economist-digital.png",
       "category": "news",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "55.00" },
+      "defaultPrices": {
+        "EUR": "55.00"
+      },
       "cancelUrl": "https://myaccount.economist.com/",
-      "aliases": ["THE ECONOMIST", "ECONOMIST DIGITAL", "ECONOMIST.COM", "PAYPAL *ECONOMIST"],
+      "aliases": [
+        "THE ECONOMIST",
+        "ECONOMIST DIGITAL",
+        "ECONOMIST.COM",
+        "PAYPAL *ECONOMIST"
+      ],
       "trialDays": 30,
       "verified": false
     },
@@ -883,10 +1675,37 @@
       "logoAsset": "assets/catalog/logos/services/tidal-individual.png",
       "category": "streaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "10.99" },
+      "defaultPrices": {
+        "EUR": "10.99"
+      },
       "cancelUrl": "https://account.tidal.com/",
-      "aliases": ["TIDAL", "TIDAL MUSIC", "TIDAL.COM", "PAYPAL *TIDAL"],
+      "aliases": [
+        "TIDAL",
+        "TIDAL MUSIC",
+        "TIDAL.COM",
+        "PAYPAL *TIDAL"
+      ],
       "trialDays": 30,
+      "verified": false
+    },
+    {
+      "id": "twitch-turbo",
+      "name": "Twitch Turbo",
+      "companyId": "amazon",
+      "logoAsset": "assets/catalog/logos/services/twitch-turbo.png",
+      "category": "gaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "11.99"
+      },
+      "cancelUrl": "https://www.twitch.tv/subscriptions",
+      "aliases": [
+        "TWITCH",
+        "TWITCH TURBO",
+        "TWITCH.TV",
+        "TWITCHINTERACTIVE"
+      ],
+      "trialDays": 0,
       "verified": false
     },
     {
@@ -896,9 +1715,16 @@
       "logoAsset": "assets/catalog/logos/services/ubisoft-plus.png",
       "category": "gaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "17.99" },
+      "defaultPrices": {
+        "EUR": "17.99"
+      },
       "cancelUrl": "https://account.ubisoft.com/account-information",
-      "aliases": ["UBISOFT+", "UBISOFT PLUS", "UBISOFT", "PAYPAL *UBISOFT"],
+      "aliases": [
+        "UBISOFT+",
+        "UBISOFT PLUS",
+        "UBISOFT",
+        "PAYPAL *UBISOFT"
+      ],
       "trialDays": 7,
       "verified": false
     },
@@ -909,9 +1735,56 @@
       "logoAsset": "assets/catalog/logos/services/vodafone-gigatv.png",
       "category": "telco",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "9.99" },
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
       "cancelUrl": "https://www.vodafone.de/hilfe/kuendigung.html",
-      "aliases": ["VODAFONE GIGATV", "GIGATV", "VODAFONE", "VODAFONE DE"],
+      "aliases": [
+        "VODAFONE GIGATV",
+        "GIGATV",
+        "VODAFONE",
+        "VODAFONE DE"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "wall-street-journal-digital",
+      "name": "The Wall Street Journal Digital",
+      "companyId": "wall-street-journal",
+      "logoAsset": "assets/catalog/logos/services/wall-street-journal-digital.png",
+      "category": "news",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "36.00"
+      },
+      "cancelUrl": "https://customercenter.wsj.com/",
+      "aliases": [
+        "WSJ",
+        "WALL STREET JOURNAL",
+        "WSJ.COM",
+        "DOW JONES WSJ"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "washington-post-digital",
+      "name": "The Washington Post Digital",
+      "companyId": "washington-post",
+      "logoAsset": "assets/catalog/logos/services/washington-post-digital.png",
+      "category": "news",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "11.00"
+      },
+      "cancelUrl": "https://subscribe.washingtonpost.com/account/",
+      "aliases": [
+        "WASHINGTON POST",
+        "WASHINGTONPOST",
+        "WAPO",
+        "WASHINGTON POST DIGITAL"
+      ],
       "trialDays": 0,
       "verified": false
     },
@@ -922,9 +1795,16 @@
       "logoAsset": "assets/catalog/logos/services/xbox-game-pass-ultimate.png",
       "category": "gaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "17.99" },
+      "defaultPrices": {
+        "EUR": "17.99"
+      },
       "cancelUrl": "https://account.microsoft.com/services",
-      "aliases": ["XBOX GAME PASS", "GAME PASS ULTIMATE", "MICROSOFT*XBOX", "MSFT *XBOX"],
+      "aliases": [
+        "XBOX GAME PASS",
+        "GAME PASS ULTIMATE",
+        "MICROSOFT*XBOX",
+        "MSFT *XBOX"
+      ],
       "trialDays": 14,
       "verified": false
     },
@@ -935,9 +1815,15 @@
       "logoAsset": "assets/catalog/logos/services/youtube-music-premium.png",
       "category": "streaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "10.99" },
+      "defaultPrices": {
+        "EUR": "10.99"
+      },
       "cancelUrl": "https://www.youtube.com/paid_memberships",
-      "aliases": ["YOUTUBE MUSIC", "GOOGLE *YOUTUBE MUSIC", "GOOGLE YOUTUBE"],
+      "aliases": [
+        "YOUTUBE MUSIC",
+        "GOOGLE *YOUTUBE MUSIC",
+        "GOOGLE YOUTUBE"
+      ],
       "trialDays": 30,
       "verified": false
     },
@@ -948,9 +1834,16 @@
       "logoAsset": "assets/catalog/logos/services/youtube-premium.png",
       "category": "streaming",
       "defaultIntervalMonths": 1,
-      "defaultPrices": { "EUR": "12.99" },
+      "defaultPrices": {
+        "EUR": "12.99"
+      },
       "cancelUrl": "https://www.youtube.com/paid_memberships",
-      "aliases": ["YOUTUBE PREMIUM", "GOOGLE *YOUTUBE", "GOOGLE YOUTUBE", "YOUTUBE"],
+      "aliases": [
+        "YOUTUBE PREMIUM",
+        "GOOGLE *YOUTUBE",
+        "GOOGLE YOUTUBE",
+        "YOUTUBE"
+      ],
       "trialDays": 30,
       "verified": false
     }
