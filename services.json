@@ -8,7 +8,8 @@
       "aliases": [
         "AgileBits"
       ],
-      "logoAsset": "assets/catalog/logos/companies/1password.png"
+      "logoAsset": "assets/catalog/logos/companies/1password.png",
+      "brandColor": "#145FE4"
     },
     {
       "id": "adobe",
@@ -16,7 +17,8 @@
       "aliases": [
         "Adobe Systems"
       ],
-      "logoAsset": "assets/catalog/logos/companies/adobe.png"
+      "logoAsset": "assets/catalog/logos/companies/adobe.png",
+      "brandColor": "#FF0000"
     },
     {
       "id": "amazon",
@@ -24,7 +26,8 @@
       "aliases": [
         "Amazon.com"
       ],
-      "logoAsset": "assets/catalog/logos/companies/amazon.png"
+      "logoAsset": "assets/catalog/logos/companies/amazon.png",
+      "brandColor": "#FF9900"
     },
     {
       "id": "apple",
@@ -32,7 +35,8 @@
       "aliases": [
         "Apple Inc."
       ],
-      "logoAsset": "assets/catalog/logos/companies/apple.png"
+      "logoAsset": "assets/catalog/logos/companies/apple.png",
+      "brandColor": "#000000"
     },
     {
       "id": "babbel",
@@ -40,13 +44,15 @@
       "aliases": [
         "Lesson Nine"
       ],
-      "logoAsset": "assets/catalog/logos/companies/babbel.png"
+      "logoAsset": "assets/catalog/logos/companies/babbel.png",
+      "brandColor": "#FF5F00"
     },
     {
       "id": "canva",
       "name": "Canva",
       "aliases": [],
-      "logoAsset": "assets/catalog/logos/companies/canva.png"
+      "logoAsset": "assets/catalog/logos/companies/canva.png",
+      "brandColor": "#00C4CC"
     },
     {
       "id": "dazn",
@@ -54,13 +60,15 @@
       "aliases": [
         "DAZN Group"
       ],
-      "logoAsset": "assets/catalog/logos/companies/dazn.png"
+      "logoAsset": "assets/catalog/logos/companies/dazn.png",
+      "brandColor": "#F8F8F5"
     },
     {
       "id": "deezer",
       "name": "Deezer",
       "aliases": [],
-      "logoAsset": "assets/catalog/logos/companies/deezer.png"
+      "logoAsset": "assets/catalog/logos/companies/deezer.png",
+      "brandColor": "#A238FF"
     },
     {
       "id": "der-spiegel",
@@ -69,7 +77,8 @@
         "Spiegel",
         "Spiegel-Verlag"
       ],
-      "logoAsset": "assets/catalog/logos/companies/der-spiegel.png"
+      "logoAsset": "assets/catalog/logos/companies/der-spiegel.png",
+      "brandColor": "#E64415"
     },
     {
       "id": "deutsche-telekom",
@@ -78,13 +87,15 @@
         "Telekom",
         "Magenta"
       ],
-      "logoAsset": "assets/catalog/logos/companies/deutsche-telekom.png"
+      "logoAsset": "assets/catalog/logos/companies/deutsche-telekom.png",
+      "brandColor": "#E20074"
     },
     {
       "id": "discord",
       "name": "Discord",
       "aliases": [],
-      "logoAsset": "assets/catalog/logos/companies/discord.png"
+      "logoAsset": "assets/catalog/logos/companies/discord.png",
+      "brandColor": "#5865F2"
     },
     {
       "id": "disney",
@@ -92,19 +103,22 @@
       "aliases": [
         "The Walt Disney Company"
       ],
-      "logoAsset": "assets/catalog/logos/companies/disney.png"
+      "logoAsset": "assets/catalog/logos/companies/disney.png",
+      "brandColor": "#113CCF"
     },
     {
       "id": "dropbox",
       "name": "Dropbox",
       "aliases": [],
-      "logoAsset": "assets/catalog/logos/companies/dropbox.png"
+      "logoAsset": "assets/catalog/logos/companies/dropbox.png",
+      "brandColor": "#0061FF"
     },
     {
       "id": "duolingo",
       "name": "Duolingo",
       "aliases": [],
-      "logoAsset": "assets/catalog/logos/companies/duolingo.png"
+      "logoAsset": "assets/catalog/logos/companies/duolingo.png",
+      "brandColor": "#58CC02"
     },
     {
       "id": "electronic-arts",
@@ -112,7 +126,8 @@
       "aliases": [
         "EA"
       ],
-      "logoAsset": "assets/catalog/logos/companies/electronic-arts.png"
+      "logoAsset": "assets/catalog/logos/companies/electronic-arts.png",
+      "brandColor": "#F05556"
     },
     {
       "id": "evernote",
@@ -120,7 +135,8 @@
       "aliases": [
         "Bending Spoons"
       ],
-      "logoAsset": "assets/catalog/logos/companies/evernote.png"
+      "logoAsset": "assets/catalog/logos/companies/evernote.png",
+      "brandColor": "#00A82D"
     },
     {
       "id": "expressvpn",
@@ -128,7 +144,8 @@
       "aliases": [
         "Express VPN"
       ],
-      "logoAsset": "assets/catalog/logos/companies/expressvpn.png"
+      "logoAsset": "assets/catalog/logos/companies/expressvpn.png",
+      "brandColor": "#DA3940"
     },
     {
       "id": "financial-times",
@@ -137,7 +154,8 @@
         "FT",
         "Nikkei"
       ],
-      "logoAsset": "assets/catalog/logos/companies/financial-times.png"
+      "logoAsset": "assets/catalog/logos/companies/financial-times.png",
+      "brandColor": "#FFF1E5"
     },
     {
       "id": "freeletics",
@@ -151,13 +169,15 @@
       "aliases": [
         "Alphabet"
       ],
-      "logoAsset": "assets/catalog/logos/companies/google.png"
+      "logoAsset": "assets/catalog/logos/companies/google.png",
+      "brandColor": "#4285F4"
     },
     {
       "id": "grammarly",
       "name": "Grammarly",
       "aliases": [],
-      "logoAsset": "assets/catalog/logos/companies/grammarly.png"
+      "logoAsset": "assets/catalog/logos/companies/grammarly.png",
+      "brandColor": "#027E6F"
     },
     {
       "id": "guardian",
@@ -165,7 +185,8 @@
       "aliases": [
         "Guardian News & Media"
       ],
-      "logoAsset": "assets/catalog/logos/companies/guardian.png"
+      "logoAsset": "assets/catalog/logos/companies/guardian.png",
+      "brandColor": "#052962"
     },
     {
       "id": "gymondo",
@@ -179,13 +200,15 @@
       "aliases": [
         "Headspace Health"
       ],
-      "logoAsset": "assets/catalog/logos/companies/headspace.png"
+      "logoAsset": "assets/catalog/logos/companies/headspace.png",
+      "brandColor": "#F47D31"
     },
     {
       "id": "komoot",
       "name": "Komoot",
       "aliases": [],
-      "logoAsset": "assets/catalog/logos/companies/komoot.png"
+      "logoAsset": "assets/catalog/logos/companies/komoot.png",
+      "brandColor": "#6AA127"
     },
     {
       "id": "microsoft",
@@ -193,19 +216,22 @@
       "aliases": [
         "Microsoft Corporation"
       ],
-      "logoAsset": "assets/catalog/logos/companies/microsoft.png"
+      "logoAsset": "assets/catalog/logos/companies/microsoft.png",
+      "brandColor": "#5E5E5E"
     },
     {
       "id": "mubi",
       "name": "MUBI",
       "aliases": [],
-      "logoAsset": "assets/catalog/logos/companies/mubi.png"
+      "logoAsset": "assets/catalog/logos/companies/mubi.png",
+      "brandColor": "#000000"
     },
     {
       "id": "netflix",
       "name": "Netflix",
       "aliases": [],
-      "logoAsset": "assets/catalog/logos/companies/netflix.png"
+      "logoAsset": "assets/catalog/logos/companies/netflix.png",
+      "brandColor": "#E50914"
     },
     {
       "id": "new-york-times",
@@ -214,7 +240,8 @@
         "NYT",
         "The New York Times Company"
       ],
-      "logoAsset": "assets/catalog/logos/companies/new-york-times.png"
+      "logoAsset": "assets/catalog/logos/companies/new-york-times.png",
+      "brandColor": "#000000"
     },
     {
       "id": "nintendo",
@@ -222,7 +249,8 @@
       "aliases": [
         "Nintendo of Europe"
       ],
-      "logoAsset": "assets/catalog/logos/companies/nintendo.png"
+      "logoAsset": "assets/catalog/logos/companies/nintendo.png",
+      "brandColor": "#E60012"
     },
     {
       "id": "nordvpn",
@@ -230,7 +258,8 @@
       "aliases": [
         "Nord Security"
       ],
-      "logoAsset": "assets/catalog/logos/companies/nordvpn.png"
+      "logoAsset": "assets/catalog/logos/companies/nordvpn.png",
+      "brandColor": "#4687FF"
     },
     {
       "id": "notion",
@@ -238,7 +267,8 @@
       "aliases": [
         "Notion Labs"
       ],
-      "logoAsset": "assets/catalog/logos/companies/notion.png"
+      "logoAsset": "assets/catalog/logos/companies/notion.png",
+      "brandColor": "#000000"
     },
     {
       "id": "nvidia",
@@ -246,13 +276,15 @@
       "aliases": [
         "GeForce"
       ],
-      "logoAsset": "assets/catalog/logos/companies/nvidia.png"
+      "logoAsset": "assets/catalog/logos/companies/nvidia.png",
+      "brandColor": "#76B900"
     },
     {
       "id": "openai",
       "name": "OpenAI",
       "aliases": [],
-      "logoAsset": "assets/catalog/logos/companies/openai.png"
+      "logoAsset": "assets/catalog/logos/companies/openai.png",
+      "brandColor": "#412991"
     },
     {
       "id": "paramount",
@@ -261,7 +293,8 @@
         "Paramount Skydance",
         "CBS"
       ],
-      "logoAsset": "assets/catalog/logos/companies/paramount.png"
+      "logoAsset": "assets/catalog/logos/companies/paramount.png",
+      "brandColor": "#0064FF"
     },
     {
       "id": "peloton",
@@ -269,7 +302,8 @@
       "aliases": [
         "One Peloton"
       ],
-      "logoAsset": "assets/catalog/logos/companies/peloton.png"
+      "logoAsset": "assets/catalog/logos/companies/peloton.png",
+      "brandColor": "#181A1D"
     },
     {
       "id": "proton",
@@ -277,7 +311,8 @@
       "aliases": [
         "Proton AG"
       ],
-      "logoAsset": "assets/catalog/logos/companies/proton.png"
+      "logoAsset": "assets/catalog/logos/companies/proton.png",
+      "brandColor": "#6D4AFF"
     },
     {
       "id": "revolut",
@@ -285,7 +320,8 @@
       "aliases": [
         "Revolut Bank"
       ],
-      "logoAsset": "assets/catalog/logos/companies/revolut.png"
+      "logoAsset": "assets/catalog/logos/companies/revolut.png",
+      "brandColor": "#191C1F"
     },
     {
       "id": "skyshowtime",
@@ -295,7 +331,8 @@
         "NBCUniversal",
         "Paramount"
       ],
-      "logoAsset": "assets/catalog/logos/companies/skyshowtime.png"
+      "logoAsset": "assets/catalog/logos/companies/skyshowtime.png",
+      "brandColor": "#7256E1"
     },
     {
       "id": "sony",
@@ -305,13 +342,15 @@
         "Sony Interactive Entertainment",
         "Sony Pictures"
       ],
-      "logoAsset": "assets/catalog/logos/companies/sony.png"
+      "logoAsset": "assets/catalog/logos/companies/sony.png",
+      "brandColor": "#FFFFFF"
     },
     {
       "id": "soundcloud",
       "name": "SoundCloud",
       "aliases": [],
-      "logoAsset": "assets/catalog/logos/companies/soundcloud.png"
+      "logoAsset": "assets/catalog/logos/companies/soundcloud.png",
+      "brandColor": "#FF5500"
     },
     {
       "id": "spotify",
@@ -319,7 +358,8 @@
       "aliases": [
         "Spotify AB"
       ],
-      "logoAsset": "assets/catalog/logos/companies/spotify.png"
+      "logoAsset": "assets/catalog/logos/companies/spotify.png",
+      "brandColor": "#1ED760"
     },
     {
       "id": "storytel",
@@ -333,7 +373,8 @@
       "id": "strava",
       "name": "Strava",
       "aliases": [],
-      "logoAsset": "assets/catalog/logos/companies/strava.png"
+      "logoAsset": "assets/catalog/logos/companies/strava.png",
+      "brandColor": "#FC4C02"
     },
     {
       "id": "telefonica",
@@ -342,7 +383,8 @@
         "O2",
         "Telefónica Germany"
       ],
-      "logoAsset": "assets/catalog/logos/companies/telefonica.png"
+      "logoAsset": "assets/catalog/logos/companies/telefonica.png",
+      "brandColor": "#0066FF"
     },
     {
       "id": "the-economist",
@@ -350,7 +392,8 @@
       "aliases": [
         "The Economist Group"
       ],
-      "logoAsset": "assets/catalog/logos/companies/the-economist.png"
+      "logoAsset": "assets/catalog/logos/companies/the-economist.png",
+      "brandColor": "#E3120B"
     },
     {
       "id": "tidal",
@@ -358,13 +401,15 @@
       "aliases": [
         "Block"
       ],
-      "logoAsset": "assets/catalog/logos/companies/tidal.png"
+      "logoAsset": "assets/catalog/logos/companies/tidal.png",
+      "brandColor": "#000000"
     },
     {
       "id": "ubisoft",
       "name": "Ubisoft",
       "aliases": [],
-      "logoAsset": "assets/catalog/logos/companies/ubisoft.png"
+      "logoAsset": "assets/catalog/logos/companies/ubisoft.png",
+      "brandColor": "#000000"
     },
     {
       "id": "vodafone",
@@ -372,7 +417,8 @@
       "aliases": [
         "Vodafone Group"
       ],
-      "logoAsset": "assets/catalog/logos/companies/vodafone.png"
+      "logoAsset": "assets/catalog/logos/companies/vodafone.png",
+      "brandColor": "#E60000"
     },
     {
       "id": "wall-street-journal",
@@ -391,7 +437,8 @@
         "WarnerMedia",
         "HBO"
       ],
-      "logoAsset": "assets/catalog/logos/companies/warner-bros-discovery.png"
+      "logoAsset": "assets/catalog/logos/companies/warner-bros-discovery.png",
+      "brandColor": "#004DB4"
     },
     {
       "id": "washington-post",
@@ -400,7 +447,8 @@
         "WaPo",
         "Nash Holdings"
       ],
-      "logoAsset": "assets/catalog/logos/companies/washington-post.png"
+      "logoAsset": "assets/catalog/logos/companies/washington-post.png",
+      "brandColor": "#231F20"
     }
   ],
   "services": [
@@ -422,7 +470,8 @@
         "PADDLE* 1PASSWORD"
       ],
       "trialDays": 14,
-      "verified": false
+      "verified": false,
+      "brandColor": "#145FE4"
     },
     {
       "id": "adobe-creative-cloud",
@@ -442,7 +491,8 @@
         "ADOBE.COM"
       ],
       "trialDays": 7,
-      "verified": false
+      "verified": false,
+      "brandColor": "#DA1F26"
     },
     {
       "id": "amazon-music-unlimited",
@@ -462,7 +512,8 @@
         "AMAZON DIGITAL MUSIC"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#46C3D0"
     },
     {
       "id": "amazon-prime",
@@ -482,7 +533,8 @@
         "AMAZON EU SARL"
       ],
       "trialDays": 30,
-      "verified": true
+      "verified": true,
+      "brandColor": "#00A8E1"
     },
     {
       "id": "apple-arcade",
@@ -502,7 +554,8 @@
         "APL* ITUNES.COM"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#000000"
     },
     {
       "id": "apple-fitness-plus",
@@ -522,7 +575,8 @@
         "APL* FITNESS"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#000000"
     },
     {
       "id": "apple-music",
@@ -542,7 +596,8 @@
         "APL* ITUNES.COM"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#FA243C"
     },
     {
       "id": "apple-tv-plus",
@@ -562,7 +617,8 @@
         "ITUNES.COM/BILL"
       ],
       "trialDays": 7,
-      "verified": false
+      "verified": false,
+      "brandColor": "#000000"
     },
     {
       "id": "audible",
@@ -582,7 +638,8 @@
         "AMZN AUDIBLE"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#F8991C"
     },
     {
       "id": "babbel",
@@ -602,7 +659,8 @@
         "PAYPAL *BABBEL"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#FF5F00"
     },
     {
       "id": "canva-pro",
@@ -622,7 +680,8 @@
         "CANVA.COM"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#00C4CC"
     },
     {
       "id": "chatgpt-plus",
@@ -642,7 +701,8 @@
         "CHATGPT SUBSCRIPTION"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#74AA9C"
     },
     {
       "id": "crunchyroll",
@@ -662,7 +722,8 @@
         "PAYPAL *CRUNCHYROLL"
       ],
       "trialDays": 7,
-      "verified": false
+      "verified": false,
+      "brandColor": "#FF5E00"
     },
     {
       "id": "dazn",
@@ -682,7 +743,8 @@
         "PAYPAL *DAZN"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#F8F8F5"
     },
     {
       "id": "deezer",
@@ -702,7 +764,8 @@
         "PAYPAL *DEEZER"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#A238FF"
     },
     {
       "id": "discord-nitro",
@@ -723,7 +786,8 @@
       ],
       "cancelGuide": "Cancel under User Settings then Subscriptions. Nitro perks remain until the paid period ends.",
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#5865F2"
     },
     {
       "id": "discovery-plus",
@@ -743,7 +807,8 @@
         "DPLAY"
       ],
       "trialDays": 7,
-      "verified": false
+      "verified": false,
+      "brandColor": "#2175D9"
     },
     {
       "id": "disney-plus",
@@ -763,7 +828,8 @@
         "PAYPAL *DISNEYPLUS"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#113CCF"
     },
     {
       "id": "dropbox-plus",
@@ -783,7 +849,8 @@
         "DROPBOX.COM"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#0061FF"
     },
     {
       "id": "duolingo-super",
@@ -803,7 +870,8 @@
         "GOOGLE *DUOLINGO"
       ],
       "trialDays": 14,
-      "verified": false
+      "verified": false,
+      "brandColor": "#58CC02"
     },
     {
       "id": "ea-play",
@@ -823,7 +891,8 @@
         "PAYPAL *EA"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#000000"
     },
     {
       "id": "evernote",
@@ -843,7 +912,8 @@
         "BENDING SPOONS"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#00A82D"
     },
     {
       "id": "expressvpn",
@@ -863,7 +933,8 @@
         "PAYPAL *EXPRESSVPN"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#DA3940"
     },
     {
       "id": "financial-times-digital",
@@ -883,7 +954,8 @@
         "PAYPAL *FINANCIALTIMES"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#FFF1E5"
     },
     {
       "id": "fitbit-premium",
@@ -903,7 +975,8 @@
         "FITBIT PAY"
       ],
       "trialDays": 90,
-      "verified": false
+      "verified": false,
+      "brandColor": "#00B0B9"
     },
     {
       "id": "freeletics",
@@ -943,7 +1016,8 @@
         "PAYPAL *NVIDIA"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#001211"
     },
     {
       "id": "google-one-100gb",
@@ -963,7 +1037,8 @@
         "GOOGLE *STORAGE"
       ],
       "trialDays": 0,
-      "verified": true
+      "verified": true,
+      "brandColor": "#4285F4"
     },
     {
       "id": "google-one-2tb",
@@ -983,7 +1058,8 @@
         "GOOGLE *STORAGE"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#4285F4"
     },
     {
       "id": "grammarly-pro",
@@ -1003,7 +1079,8 @@
         "PAYPAL *GRAMMARLY"
       ],
       "trialDays": 7,
-      "verified": false
+      "verified": false,
+      "brandColor": "#027E6F"
     },
     {
       "id": "guardian-digital",
@@ -1023,7 +1100,8 @@
         "GUARDIAN SUBS"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#052962"
     },
     {
       "id": "gymondo",
@@ -1063,7 +1141,8 @@
         "PAYPAL *HEADSPACE"
       ],
       "trialDays": 14,
-      "verified": false
+      "verified": false,
+      "brandColor": "#F47D31"
     },
     {
       "id": "icloud-plus-200gb",
@@ -1083,7 +1162,8 @@
         "APL* ICLOUD"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#3693F3"
     },
     {
       "id": "icloud-plus-50gb",
@@ -1103,7 +1183,8 @@
         "APL* ICLOUD"
       ],
       "trialDays": 0,
-      "verified": true
+      "verified": true,
+      "brandColor": "#3693F3"
     },
     {
       "id": "kindle-unlimited",
@@ -1144,7 +1225,8 @@
         "PAYPAL *KOMOOT"
       ],
       "trialDays": 0,
-      "verified": true
+      "verified": true,
+      "brandColor": "#6AA127"
     },
     {
       "id": "linkedin-premium-career",
@@ -1164,7 +1246,8 @@
         "MICROSOFT*LINKEDIN"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#0A66C2"
     },
     {
       "id": "magenta-tv",
@@ -1184,7 +1267,8 @@
         "DEUTSCHE TELEKOM"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#E20074"
     },
     {
       "id": "max-standard",
@@ -1204,7 +1288,8 @@
         "PAYPAL *MAX"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#525252"
     },
     {
       "id": "microsoft-365-basic",
@@ -1224,7 +1309,8 @@
         "MICROSOFT*365"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#5E5E5E"
     },
     {
       "id": "microsoft-365-personal",
@@ -1244,7 +1330,8 @@
         "MSFT *E0100"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#5E5E5E"
     },
     {
       "id": "mubi",
@@ -1264,7 +1351,8 @@
         "PAYPAL *MUBI"
       ],
       "trialDays": 7,
-      "verified": false
+      "verified": false,
+      "brandColor": "#000000"
     },
     {
       "id": "netflix-standard",
@@ -1285,7 +1373,8 @@
         "PAYPAL *NETFLIX"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#E50914"
     },
     {
       "id": "new-york-times-digital",
@@ -1305,7 +1394,8 @@
         "NYT DIGITAL"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#000000"
     },
     {
       "id": "nintendo-switch-online",
@@ -1325,7 +1415,8 @@
         "NINTENDO OF EUROPE"
       ],
       "trialDays": 7,
-      "verified": true
+      "verified": true,
+      "brandColor": "#E60012"
     },
     {
       "id": "nintendo-switch-online-expansion",
@@ -1345,7 +1436,8 @@
         "NSO EXPANSION PACK"
       ],
       "trialDays": 7,
-      "verified": false
+      "verified": false,
+      "brandColor": "#E60012"
     },
     {
       "id": "nordvpn-standard",
@@ -1365,7 +1457,8 @@
         "PAYPAL *NORDVPN"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#4687FF"
     },
     {
       "id": "notion-plus",
@@ -1385,7 +1478,8 @@
         "NOTION.SO"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#000000"
     },
     {
       "id": "o2-tv",
@@ -1405,7 +1499,8 @@
         "O2 DE"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#0050FF"
     },
     {
       "id": "paramount-plus",
@@ -1425,7 +1520,8 @@
         "CBS PARAMOUNT"
       ],
       "trialDays": 7,
-      "verified": false
+      "verified": false,
+      "brandColor": "#0064FF"
     },
     {
       "id": "peloton-app",
@@ -1445,7 +1541,8 @@
         "PAYPAL *PELOTON"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#181A1D"
     },
     {
       "id": "playstation-plus-essential",
@@ -1465,7 +1562,8 @@
         "SONY INTERACTIVE"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#0070D1"
     },
     {
       "id": "proton-mail-plus",
@@ -1485,7 +1583,8 @@
         "PAYPAL *PROTON"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#6D4AFF"
     },
     {
       "id": "proton-vpn-plus",
@@ -1505,7 +1604,8 @@
         "PAYPAL *PROTONVPN"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#66DEB1"
     },
     {
       "id": "revolut-premium",
@@ -1525,7 +1625,8 @@
         "REVOLUT PLAN"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#191C1F"
     },
     {
       "id": "skyshowtime-standard",
@@ -1545,7 +1646,8 @@
         "PAYPAL *SKYSHOWTIME"
       ],
       "trialDays": 7,
-      "verified": false
+      "verified": false,
+      "brandColor": "#7256E1"
     },
     {
       "id": "soundcloud-go-plus",
@@ -1565,7 +1667,8 @@
         "PAYPAL *SOUNDCLOUD"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#FF5500"
     },
     {
       "id": "spiegel-plus",
@@ -1585,7 +1688,8 @@
         "DER SPIEGEL"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#E64415"
     },
     {
       "id": "spotify-premium",
@@ -1606,7 +1710,8 @@
         "PAYPAL *SPOTIFY"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#1ED760"
     },
     {
       "id": "storytel",
@@ -1646,7 +1751,8 @@
         "PAYPAL *STRAVA"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#FC4C02"
     },
     {
       "id": "the-economist-digital",
@@ -1666,7 +1772,8 @@
         "PAYPAL *ECONOMIST"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#E3120B"
     },
     {
       "id": "tidal-individual",
@@ -1686,7 +1793,8 @@
         "PAYPAL *TIDAL"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#000000"
     },
     {
       "id": "twitch-turbo",
@@ -1706,7 +1814,8 @@
         "TWITCHINTERACTIVE"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#9146FF"
     },
     {
       "id": "ubisoft-plus",
@@ -1726,7 +1835,8 @@
         "PAYPAL *UBISOFT"
       ],
       "trialDays": 7,
-      "verified": false
+      "verified": false,
+      "brandColor": "#000000"
     },
     {
       "id": "vodafone-gigatv",
@@ -1746,7 +1856,8 @@
         "VODAFONE DE"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#E60000"
     },
     {
       "id": "wall-street-journal-digital",
@@ -1786,7 +1897,8 @@
         "WASHINGTON POST DIGITAL"
       ],
       "trialDays": 0,
-      "verified": false
+      "verified": false,
+      "brandColor": "#231F20"
     },
     {
       "id": "xbox-game-pass-ultimate",
@@ -1806,7 +1918,8 @@
         "MSFT *XBOX"
       ],
       "trialDays": 14,
-      "verified": false
+      "verified": false,
+      "brandColor": "#107C10"
     },
     {
       "id": "youtube-music-premium",
@@ -1825,7 +1938,8 @@
         "GOOGLE YOUTUBE"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#FF0000"
     },
     {
       "id": "youtube-premium",
@@ -1845,7 +1959,8 @@
         "YOUTUBE"
       ],
       "trialDays": 30,
-      "verified": false
+      "verified": false,
+      "brandColor": "#FF0000"
     }
   ]
 }
