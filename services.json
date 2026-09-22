@@ -12,6 +12,15 @@
       "brandColor": "#145FE4"
     },
     {
+      "id": "adac",
+      "name": "ADAC",
+      "aliases": [
+        "ADAC e.V.",
+        "Allgemeiner Deutscher Automobil-Club"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/adac.png"
+    },
+    {
       "id": "adobe",
       "name": "Adobe",
       "aliases": [
@@ -28,6 +37,15 @@
       ],
       "logoAsset": "assets/catalog/logos/companies/amazon.png",
       "brandColor": "#FF9900"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "aliases": [
+        "Anthropic PBC"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/anthropic.png",
+      "brandColor": "#191919"
     },
     {
       "id": "apple",
@@ -48,11 +66,83 @@
       "brandColor": "#FF5F00"
     },
     {
+      "id": "bitdefender",
+      "name": "Bitdefender",
+      "aliases": [
+        "Bitdefender SRL"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/bitdefender.png",
+      "brandColor": "#ED1C24"
+    },
+    {
+      "id": "blinkist",
+      "name": "Blinkist",
+      "aliases": [
+        "Blinks Labs GmbH"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/blinkist.png",
+      "brandColor": "#2CE080"
+    },
+    {
+      "id": "bookbeat",
+      "name": "BookBeat",
+      "aliases": [
+        "BookBeat GmbH",
+        "BookBeat AB"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/bookbeat.png",
+      "brandColor": "#CD96FF"
+    },
+    {
+      "id": "boosteroid",
+      "name": "Boosteroid",
+      "aliases": [
+        "Boosteroid Cloud Gaming"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/boosteroid.png"
+    },
+    {
+      "id": "bunq",
+      "name": "bunq",
+      "aliases": [
+        "bunq B.V."
+      ],
+      "logoAsset": "assets/catalog/logos/companies/bunq.png",
+      "brandColor": "#3394D7"
+    },
+    {
+      "id": "busuu",
+      "name": "Busuu",
+      "aliases": [
+        "Busuu Ltd"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/busuu.png",
+      "brandColor": "#116EEE"
+    },
+    {
+      "id": "canal-plus",
+      "name": "Canal+",
+      "aliases": [
+        "Groupe Canal+",
+        "Canal+ SA"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/canal-plus.png"
+    },
+    {
       "id": "canva",
       "name": "Canva",
       "aliases": [],
       "logoAsset": "assets/catalog/logos/companies/canva.png",
       "brandColor": "#00C4CC"
+    },
+    {
+      "id": "clue",
+      "name": "Clue",
+      "aliases": [
+        "BioWink GmbH"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/clue.png",
+      "brandColor": "#EE3D3D"
     },
     {
       "id": "dazn",
@@ -64,11 +154,30 @@
       "brandColor": "#F8F8F5"
     },
     {
+      "id": "deepl",
+      "name": "DeepL",
+      "aliases": [
+        "DeepL SE"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/deepl.png",
+      "brandColor": "#0F2B46"
+    },
+    {
       "id": "deezer",
       "name": "Deezer",
       "aliases": [],
       "logoAsset": "assets/catalog/logos/companies/deezer.png",
       "brandColor": "#A238FF"
+    },
+    {
+      "id": "deliveroo",
+      "name": "Deliveroo",
+      "aliases": [
+        "Roofoods Ltd",
+        "DoorDash"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/deliveroo.png",
+      "brandColor": "#00CCBC"
     },
     {
       "id": "der-spiegel",
@@ -79,6 +188,16 @@
       ],
       "logoAsset": "assets/catalog/logos/companies/der-spiegel.png",
       "brandColor": "#E64415"
+    },
+    {
+      "id": "deutsche-bahn",
+      "name": "Deutsche Bahn",
+      "aliases": [
+        "DB Vertrieb GmbH",
+        "DB Fernverkehr AG"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/deutsche-bahn.png",
+      "brandColor": "#F01414"
     },
     {
       "id": "deutsche-telekom",
@@ -107,6 +226,15 @@
       "brandColor": "#113CCF"
     },
     {
+      "id": "doist",
+      "name": "Doist",
+      "aliases": [
+        "Doist Inc."
+      ],
+      "logoAsset": "assets/catalog/logos/companies/doist.png",
+      "brandColor": "#E44332"
+    },
+    {
       "id": "dropbox",
       "name": "Dropbox",
       "aliases": [],
@@ -119,6 +247,16 @@
       "aliases": [],
       "logoAsset": "assets/catalog/logos/companies/duolingo.png",
       "brandColor": "#58CC02"
+    },
+    {
+      "id": "ebay",
+      "name": "eBay",
+      "aliases": [
+        "eBay GmbH",
+        "eBay Inc."
+      ],
+      "logoAsset": "assets/catalog/logos/companies/ebay.png",
+      "brandColor": "#E53238"
     },
     {
       "id": "electronic-arts",
@@ -148,6 +286,14 @@
       "brandColor": "#DA3940"
     },
     {
+      "id": "filmin",
+      "name": "Filmin",
+      "aliases": [
+        "Filmin S.L."
+      ],
+      "logoAsset": "assets/catalog/logos/companies/filmin.png"
+    },
+    {
       "id": "financial-times",
       "name": "Financial Times",
       "aliases": [
@@ -158,10 +304,38 @@
       "brandColor": "#FFF1E5"
     },
     {
+      "id": "fitx",
+      "name": "FitX",
+      "aliases": [
+        "FitX Deutschland GmbH"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/fitx.png",
+      "brandColor": "#EC7404"
+    },
+    {
       "id": "freeletics",
       "name": "Freeletics",
       "aliases": [],
       "logoAsset": "assets/catalog/logos/companies/freeletics.png"
+    },
+    {
+      "id": "freenow",
+      "name": "Freenow",
+      "aliases": [
+        "FREE NOW",
+        "Lyft"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/freenow.png"
+    },
+    {
+      "id": "garmin",
+      "name": "Garmin",
+      "aliases": [
+        "Garmin Deutschland GmbH",
+        "Garmin Ltd."
+      ],
+      "logoAsset": "assets/catalog/logos/companies/garmin.png",
+      "brandColor": "#000000"
     },
     {
       "id": "google",
@@ -195,6 +369,15 @@
       "logoAsset": "assets/catalog/logos/companies/gymondo.png"
     },
     {
+      "id": "hayu",
+      "name": "hayu",
+      "aliases": [
+        "NBCUniversal"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/hayu.png",
+      "brandColor": "#FF285A"
+    },
+    {
       "id": "headspace",
       "name": "Headspace",
       "aliases": [
@@ -204,11 +387,38 @@
       "brandColor": "#F47D31"
     },
     {
+      "id": "humble-bundle",
+      "name": "Humble Bundle",
+      "aliases": [
+        "Humble Bundle, Inc."
+      ],
+      "logoAsset": "assets/catalog/logos/companies/humble-bundle.png",
+      "brandColor": "#CC2929"
+    },
+    {
+      "id": "joyn",
+      "name": "Joyn",
+      "aliases": [
+        "Joyn GmbH"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/joyn.png"
+    },
+    {
       "id": "komoot",
       "name": "Komoot",
       "aliases": [],
       "logoAsset": "assets/catalog/logos/companies/komoot.png",
       "brandColor": "#6AA127"
+    },
+    {
+      "id": "mcfit",
+      "name": "McFIT",
+      "aliases": [
+        "RSG Group GmbH",
+        "McFIT GmbH"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/mcfit.png",
+      "brandColor": "#F5E51E"
     },
     {
       "id": "microsoft",
@@ -227,6 +437,25 @@
       "brandColor": "#000000"
     },
     {
+      "id": "mullvad",
+      "name": "Mullvad",
+      "aliases": [
+        "Mullvad VPN AB"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/mullvad.png",
+      "brandColor": "#294D73"
+    },
+    {
+      "id": "n26",
+      "name": "N26",
+      "aliases": [
+        "N26 Bank AG",
+        "N26 Bank SE"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/n26.png",
+      "brandColor": "#48AC98"
+    },
+    {
       "id": "netflix",
       "name": "Netflix",
       "aliases": [],
@@ -242,6 +471,15 @@
       ],
       "logoAsset": "assets/catalog/logos/companies/new-york-times.png",
       "brandColor": "#000000"
+    },
+    {
+      "id": "nextory",
+      "name": "Nextory",
+      "aliases": [
+        "Nextory AB"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/nextory.png",
+      "brandColor": "#F6495B"
     },
     {
       "id": "nintendo",
@@ -262,6 +500,16 @@
       "brandColor": "#4687FF"
     },
     {
+      "id": "norton",
+      "name": "Norton",
+      "aliases": [
+        "Gen Digital",
+        "NortonLifeLock"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/norton.png",
+      "brandColor": "#FFE01A"
+    },
+    {
       "id": "notion",
       "name": "Notion",
       "aliases": [
@@ -269,6 +517,16 @@
       ],
       "logoAsset": "assets/catalog/logos/companies/notion.png",
       "brandColor": "#000000"
+    },
+    {
+      "id": "npo",
+      "name": "NPO",
+      "aliases": [
+        "Nederlandse Publieke Omroep",
+        "Stichting NPO"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/npo.png",
+      "brandColor": "#FF6D00"
     },
     {
       "id": "nvidia",
@@ -287,6 +545,16 @@
       "brandColor": "#412991"
     },
     {
+      "id": "oura",
+      "name": "Oura",
+      "aliases": [
+        "Oura Health Oy",
+        "Ouraring Inc."
+      ],
+      "logoAsset": "assets/catalog/logos/companies/oura.png",
+      "brandColor": "#2F4A73"
+    },
+    {
       "id": "paramount",
       "name": "Paramount",
       "aliases": [
@@ -295,6 +563,16 @@
       ],
       "logoAsset": "assets/catalog/logos/companies/paramount.png",
       "brandColor": "#0064FF"
+    },
+    {
+      "id": "pcloud",
+      "name": "pCloud",
+      "aliases": [
+        "pCloud AG",
+        "pCloud International AG"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/pcloud.png",
+      "brandColor": "#1EBCC5"
     },
     {
       "id": "peloton",
@@ -315,6 +593,24 @@
       "brandColor": "#6D4AFF"
     },
     {
+      "id": "qobuz",
+      "name": "Qobuz",
+      "aliases": [
+        "Xandrie SA"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/qobuz.png"
+    },
+    {
+      "id": "readly",
+      "name": "Readly",
+      "aliases": [
+        "Readly International AB",
+        "Cafeyn"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/readly.png",
+      "brandColor": "#FBAC2C"
+    },
+    {
       "id": "revolut",
       "name": "Revolut",
       "aliases": [
@@ -322,6 +618,15 @@
       ],
       "logoAsset": "assets/catalog/logos/companies/revolut.png",
       "brandColor": "#191C1F"
+    },
+    {
+      "id": "rtl-plus",
+      "name": "RTL+",
+      "aliases": [
+        "RTL Deutschland GmbH"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/rtl-plus.png",
+      "brandColor": "#FA002E"
     },
     {
       "id": "skyshowtime",
@@ -362,6 +667,16 @@
       "brandColor": "#1ED760"
     },
     {
+      "id": "square-enix",
+      "name": "Square Enix",
+      "aliases": [
+        "Square Enix Ltd.",
+        "Square Enix Holdings"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/square-enix.png",
+      "brandColor": "#ED1C24"
+    },
+    {
       "id": "storytel",
       "name": "Storytel",
       "aliases": [
@@ -375,6 +690,14 @@
       "aliases": [],
       "logoAsset": "assets/catalog/logos/companies/strava.png",
       "brandColor": "#FC4C02"
+    },
+    {
+      "id": "tagesspiegel",
+      "name": "Der Tagesspiegel",
+      "aliases": [
+        "Verlag Der Tagesspiegel GmbH"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/tagesspiegel.png"
     },
     {
       "id": "telefonica",
@@ -405,11 +728,39 @@
       "brandColor": "#000000"
     },
     {
+      "id": "uber",
+      "name": "Uber",
+      "aliases": [
+        "Uber B.V.",
+        "Uber Technologies"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/uber.png",
+      "brandColor": "#000000"
+    },
+    {
       "id": "ubisoft",
       "name": "Ubisoft",
       "aliases": [],
       "logoAsset": "assets/catalog/logos/companies/ubisoft.png",
       "brandColor": "#000000"
+    },
+    {
+      "id": "viaplay",
+      "name": "Viaplay",
+      "aliases": [
+        "Viaplay Group"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/viaplay.png",
+      "brandColor": "#FE365F"
+    },
+    {
+      "id": "videoland",
+      "name": "Videoland",
+      "aliases": [
+        "RTL Nederland",
+        "DPG Media"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/videoland.png"
     },
     {
       "id": "vodafone",
@@ -419,6 +770,14 @@
       ],
       "logoAsset": "assets/catalog/logos/companies/vodafone.png",
       "brandColor": "#E60000"
+    },
+    {
+      "id": "waipu-tv",
+      "name": "waipu.tv",
+      "aliases": [
+        "Exaring AG"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/waipu-tv.png"
     },
     {
       "id": "wall-street-journal",
@@ -449,6 +808,52 @@
       ],
       "logoAsset": "assets/catalog/logos/companies/washington-post.png",
       "brandColor": "#231F20"
+    },
+    {
+      "id": "whoop",
+      "name": "WHOOP",
+      "aliases": [
+        "WHOOP, Inc."
+      ],
+      "logoAsset": "assets/catalog/logos/companies/whoop.png"
+    },
+    {
+      "id": "wolt",
+      "name": "Wolt",
+      "aliases": [
+        "Wolt Enterprises Oy",
+        "DoorDash"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/wolt.png",
+      "brandColor": "#00C2E8"
+    },
+    {
+      "id": "wow",
+      "name": "WOW",
+      "aliases": [
+        "Sky Deutschland Fernsehen GmbH & Co. KG",
+        "Sky Deutschland"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/wow.png"
+    },
+    {
+      "id": "yazio",
+      "name": "YAZIO",
+      "aliases": [
+        "YAZIO GmbH"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/yazio.png",
+      "brandColor": "#09DAA9"
+    },
+    {
+      "id": "zattoo",
+      "name": "Zattoo",
+      "aliases": [
+        "Zattoo Europa AG",
+        "Zattoo AG"
+      ],
+      "logoAsset": "assets/catalog/logos/companies/zattoo.png",
+      "brandColor": "#F96522"
     }
   ],
   "services": [
@@ -474,6 +879,101 @@
       "brandColor": "#145FE4"
     },
     {
+      "id": "1password-families",
+      "name": "1Password Families",
+      "companyId": "1password",
+      "logoAsset": "assets/catalog/logos/services/1password-families.png",
+      "category": "software",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "82.11"
+      },
+      "cancelUrl": "https://my.1password.com/",
+      "aliases": [
+        "1PASSWORD FAMILIES",
+        "1PASSWORD FAMILY"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#145FE4"
+    },
+    {
+      "id": "adac-basis",
+      "name": "ADAC Basis",
+      "companyId": "adac",
+      "logoAsset": "assets/catalog/logos/services/adac-basis.png",
+      "category": "other",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "54.00"
+      },
+      "cancelUrl": "https://www.adac.de/mitgliedschaft/kuendigung/formular/",
+      "aliases": [
+        "ADAC BASIS"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "adac-plus",
+      "name": "ADAC Plus",
+      "companyId": "adac",
+      "logoAsset": "assets/catalog/logos/services/adac-plus.png",
+      "category": "other",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "94.00"
+      },
+      "cancelUrl": "https://www.adac.de/mitgliedschaft/kuendigung/formular/",
+      "aliases": [
+        "ADAC PLUS",
+        "ADAC PLUS MITGLIEDSCHAFT",
+        "ADAC E.V.",
+        "ADAC MITGLIEDSBEITRAG"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "adac-premium",
+      "name": "ADAC Premium",
+      "companyId": "adac",
+      "logoAsset": "assets/catalog/logos/services/adac-premium.png",
+      "category": "other",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "139.00"
+      },
+      "cancelUrl": "https://www.adac.de/mitgliedschaft/kuendigung/formular/",
+      "aliases": [
+        "ADAC PREMIUM",
+        "ADAC PREMIUM MITGLIEDSCHAFT"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "adobe-acrobat-pro",
+      "name": "Adobe Acrobat Pro",
+      "companyId": "adobe",
+      "logoAsset": "assets/catalog/logos/services/adobe-acrobat-pro.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "23.79"
+      },
+      "cancelUrl": "https://account.adobe.com/plans",
+      "aliases": [
+        "ADOBE *ACROPRO SUBS",
+        "ADOBE ACROBAT PRO",
+        "ADOBE *ACROBAT PRO",
+        "ACROPRO SUBS"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#FF0000"
+    },
+    {
       "id": "adobe-creative-cloud",
       "name": "Adobe Creative Cloud",
       "companyId": "adobe",
@@ -481,7 +981,7 @@
       "category": "software",
       "defaultIntervalMonths": 1,
       "defaultPrices": {
-        "EUR": "67.57"
+        "EUR": "77.99"
       },
       "cancelUrl": "https://account.adobe.com/plans",
       "aliases": [
@@ -493,6 +993,67 @@
       "trialDays": 7,
       "verified": false,
       "brandColor": "#DA1F26"
+    },
+    {
+      "id": "adobe-lightroom",
+      "name": "Adobe Lightroom (1 TB)",
+      "companyId": "adobe",
+      "logoAsset": "assets/catalog/logos/services/adobe-lightroom.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "14.49"
+      },
+      "cancelUrl": "https://account.adobe.com/plans",
+      "aliases": [
+        "ADOBE *LIGHTROOM",
+        "ADOBE LIGHTROOM",
+        "ADOBE *LIGHTROOM CC"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#31A8FF"
+    },
+    {
+      "id": "adobe-photography-plan",
+      "name": "Adobe Photography Plan (1 TB)",
+      "companyId": "adobe",
+      "logoAsset": "assets/catalog/logos/services/adobe-photography-plan.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "23.79"
+      },
+      "cancelUrl": "https://account.adobe.com/plans",
+      "aliases": [
+        "ADOBE *PHOTOGPHY PLAN",
+        "ADOBE PHOTOGRAPHY PLAN",
+        "ADOBE *FOTO-ABO",
+        "ADOBE *PHOTOGRAPHY"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#FF0000"
+    },
+    {
+      "id": "adobe-photoshop",
+      "name": "Adobe Photoshop",
+      "companyId": "adobe",
+      "logoAsset": "assets/catalog/logos/services/adobe-photoshop.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "25.99"
+      },
+      "cancelUrl": "https://account.adobe.com/plans",
+      "aliases": [
+        "ADOBE *PHOTOSHOP",
+        "ADOBE PHOTOSHOP",
+        "ADOBE *PHOTOSHOP SUBS"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#31A8FF"
     },
     {
       "id": "amazon-music-unlimited",
@@ -514,6 +1075,64 @@
       "trialDays": 30,
       "verified": false,
       "brandColor": "#46C3D0"
+    },
+    {
+      "id": "amazon-music-unlimited-family",
+      "name": "Amazon Music Unlimited Family",
+      "companyId": "amazon",
+      "logoAsset": "assets/catalog/logos/services/amazon-music-unlimited-family.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "16.99"
+      },
+      "cancelUrl": "https://www.amazon.de/yourmembershipsandsubscriptions",
+      "aliases": [
+        "AMAZON MUSIC FAMILY",
+        "AMZN MUSIC FAMILY",
+        "AMAZON MUSIC UNLIMITED FAMILY"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#46C3D0"
+    },
+    {
+      "id": "amazon-photos-100gb",
+      "name": "Amazon Photos 100 GB",
+      "companyId": "amazon",
+      "logoAsset": "assets/catalog/logos/services/amazon-photos-100gb.png",
+      "category": "storage",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "1.99"
+      },
+      "cancelUrl": "https://www.amazon.de/gp/help/customer/display.html?nodeId=GN56DVGQZ5PCAWK4",
+      "aliases": [
+        "AMAZON PHOTOS",
+        "AMAZON PHOTOS 100GB",
+        "AMZN DIGITAL PHOTOS"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#FF9900"
+    },
+    {
+      "id": "amazon-photos-1tb",
+      "name": "Amazon Photos 1 TB",
+      "companyId": "amazon",
+      "logoAsset": "assets/catalog/logos/services/amazon-photos-1tb.png",
+      "category": "storage",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
+      "cancelUrl": "https://www.amazon.de/gp/help/customer/display.html?nodeId=GN56DVGQZ5PCAWK4",
+      "aliases": [
+        "AMAZON PHOTOS 1TB"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#FF9900"
     },
     {
       "id": "amazon-prime",
@@ -586,7 +1205,7 @@
       "category": "streaming",
       "defaultIntervalMonths": 1,
       "defaultPrices": {
-        "EUR": "10.99"
+        "EUR": "11.99"
       },
       "cancelUrl": "https://support.apple.com/billing",
       "aliases": [
@@ -598,6 +1217,100 @@
       "trialDays": 30,
       "verified": false,
       "brandColor": "#FA243C"
+    },
+    {
+      "id": "apple-music-family",
+      "name": "Apple Music Family",
+      "companyId": "apple",
+      "logoAsset": "assets/catalog/logos/services/apple-music-family.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "19.99"
+      },
+      "cancelUrl": "https://support.apple.com/billing",
+      "aliases": [
+        "APPLE MUSIC FAMILY",
+        "APL* APPLE MUSIC FAMILY"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#FA243C"
+    },
+    {
+      "id": "apple-music-student",
+      "name": "Apple Music Student",
+      "companyId": "apple",
+      "logoAsset": "assets/catalog/logos/services/apple-music-student.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "6.99"
+      },
+      "cancelUrl": "https://support.apple.com/billing",
+      "aliases": [
+        "APPLE MUSIC STUDENT"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#FA243C"
+    },
+    {
+      "id": "apple-one-family",
+      "name": "Apple One Familie",
+      "companyId": "apple",
+      "logoAsset": "assets/catalog/logos/services/apple-one-family.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "25.95"
+      },
+      "cancelUrl": "https://support.apple.com/de-de/118428",
+      "aliases": [
+        "APPLE ONE FAMILIE",
+        "APPLE ONE FAMILY"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#000000"
+    },
+    {
+      "id": "apple-one-individual",
+      "name": "Apple One Einzelperson",
+      "companyId": "apple",
+      "logoAsset": "assets/catalog/logos/services/apple-one-individual.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "19.95"
+      },
+      "cancelUrl": "https://support.apple.com/de-de/118428",
+      "aliases": [
+        "APPLE ONE",
+        "APPLE ONE EINZELPERSON"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#000000"
+    },
+    {
+      "id": "apple-one-premier",
+      "name": "Apple One Premium",
+      "companyId": "apple",
+      "logoAsset": "assets/catalog/logos/services/apple-one-premier.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "34.95"
+      },
+      "cancelUrl": "https://support.apple.com/de-de/118428",
+      "aliases": [
+        "APPLE ONE PREMIUM",
+        "APPLE ONE PREMIER"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#000000"
     },
     {
       "id": "apple-tv-plus",
@@ -663,6 +1376,336 @@
       "brandColor": "#FF5F00"
     },
     {
+      "id": "bahncard-25",
+      "name": "BahnCard 25 (2. Klasse)",
+      "companyId": "deutsche-bahn",
+      "logoAsset": "assets/catalog/logos/services/bahncard-25.png",
+      "category": "other",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "62.90"
+      },
+      "cancelUrl": "https://www.bahn.de/faq/wie-kann-ich-meine-bahncard-kuendigen",
+      "aliases": [
+        "BAHNCARD 25",
+        "BC25"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#EC0016"
+    },
+    {
+      "id": "bahncard-25-first",
+      "name": "BahnCard 25 (1. Klasse)",
+      "companyId": "deutsche-bahn",
+      "logoAsset": "assets/catalog/logos/services/bahncard-25-first.png",
+      "category": "other",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "125.00"
+      },
+      "cancelUrl": "https://www.bahn.de/faq/wie-kann-ich-meine-bahncard-kuendigen",
+      "aliases": [
+        "BAHNCARD 25 1. KL",
+        "BC25 1KL",
+        "BAHNCARD 25 1. KLASSE"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#EC0016"
+    },
+    {
+      "id": "bahncard-50",
+      "name": "BahnCard 50 (2. Klasse)",
+      "companyId": "deutsche-bahn",
+      "logoAsset": "assets/catalog/logos/services/bahncard-50.png",
+      "category": "other",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "244.00"
+      },
+      "cancelUrl": "https://www.bahn.de/faq/wie-kann-ich-meine-bahncard-kuendigen",
+      "aliases": [
+        "BAHNCARD 50",
+        "BC50"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#EC0016"
+    },
+    {
+      "id": "bitdefender-total-security",
+      "name": "Bitdefender Total Security",
+      "companyId": "bitdefender",
+      "logoAsset": "assets/catalog/logos/services/bitdefender-total-security.png",
+      "category": "software",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "99.99"
+      },
+      "cancelUrl": "https://www.bitdefender.com/consumer/support/answer/29081/",
+      "aliases": [
+        "BITDEFENDER",
+        "BITDEFENDER.COM",
+        "2CO.COM*BITDEFENDER",
+        "AVANGATE*BITDEFENDER"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#ED1C24"
+    },
+    {
+      "id": "bitdefender-total-security-family",
+      "name": "Bitdefender Total Security Family",
+      "companyId": "bitdefender",
+      "logoAsset": "assets/catalog/logos/services/bitdefender-total-security-family.png",
+      "category": "software",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "159.99"
+      },
+      "cancelUrl": "https://www.bitdefender.com/consumer/support/answer/29081/",
+      "aliases": [
+        "BITDEFENDER FAMILY"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#ED1C24"
+    },
+    {
+      "id": "blinkist-premium",
+      "name": "Blinkist Premium",
+      "companyId": "blinkist",
+      "logoAsset": "assets/catalog/logos/services/blinkist-premium.png",
+      "category": "other",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "79.99"
+      },
+      "cancelUrl": "https://play.google.com/store/account/subscriptions",
+      "aliases": [
+        "BLINKIST",
+        "BLINKS LABS",
+        "BLINKS LABS GMBH",
+        "BLINKIST.COM"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#2CE080"
+    },
+    {
+      "id": "bookbeat-basis",
+      "name": "BookBeat Basis",
+      "companyId": "bookbeat",
+      "logoAsset": "assets/catalog/logos/services/bookbeat-basis.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
+      "cancelUrl": "https://www.bookbeat.com/de/account/my-account",
+      "aliases": [
+        "BOOKBEAT",
+        "BOOKBEAT.COM",
+        "BOOKBEAT GMBH",
+        "PAYPAL *BOOKBEAT"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#CD96FF"
+    },
+    {
+      "id": "bookbeat-premium",
+      "name": "BookBeat Premium",
+      "companyId": "bookbeat",
+      "logoAsset": "assets/catalog/logos/services/bookbeat-premium.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "19.99"
+      },
+      "cancelUrl": "https://www.bookbeat.com/de/account/my-account",
+      "aliases": [
+        "BOOKBEAT PREMIUM",
+        "BOOKBEAT 100H"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#CD96FF"
+    },
+    {
+      "id": "bookbeat-standard",
+      "name": "BookBeat Standard",
+      "companyId": "bookbeat",
+      "logoAsset": "assets/catalog/logos/services/bookbeat-standard.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "14.99"
+      },
+      "cancelUrl": "https://www.bookbeat.com/de/account/my-account",
+      "aliases": [
+        "BOOKBEAT STANDARD",
+        "BOOKBEAT 40H"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#CD96FF"
+    },
+    {
+      "id": "boosteroid-ultra",
+      "name": "Boosteroid Ultra",
+      "companyId": "boosteroid",
+      "logoAsset": "assets/catalog/logos/services/boosteroid-ultra.png",
+      "category": "gaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "16.89"
+      },
+      "cancelUrl": "https://cloud.boosteroid.com/",
+      "aliases": [
+        "BOOSTEROID",
+        "BOOSTEROID.COM",
+        "PAYPAL *BOOSTEROID",
+        "BOOSTEROID CLOUD GAMING"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "bunq-core",
+      "name": "bunq Core",
+      "companyId": "bunq",
+      "logoAsset": "assets/catalog/logos/services/bunq-core.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "3.99"
+      },
+      "cancelUrl": "https://help.bunq.com/articles/how-do-i-change-my-plan",
+      "aliases": [
+        "BUNQ CORE",
+        "BUNQ B.V. CORE"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#3394D7"
+    },
+    {
+      "id": "bunq-elite",
+      "name": "bunq Elite",
+      "companyId": "bunq",
+      "logoAsset": "assets/catalog/logos/services/bunq-elite.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "18.99"
+      },
+      "cancelUrl": "https://help.bunq.com/articles/how-do-i-change-my-plan",
+      "aliases": [
+        "BUNQ ELITE",
+        "BUNQ B.V. ELITE"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#3394D7"
+    },
+    {
+      "id": "bunq-pro",
+      "name": "bunq Pro",
+      "companyId": "bunq",
+      "logoAsset": "assets/catalog/logos/services/bunq-pro.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
+      "cancelUrl": "https://help.bunq.com/articles/how-do-i-change-my-plan",
+      "aliases": [
+        "BUNQ PRO",
+        "BUNQ B.V. PRO"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#3394D7"
+    },
+    {
+      "id": "busuu-premium",
+      "name": "Busuu Premium",
+      "companyId": "busuu",
+      "logoAsset": "assets/catalog/logos/services/busuu-premium.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "13.99"
+      },
+      "cancelUrl": "https://play.google.com/store/account/subscriptions",
+      "aliases": [
+        "BUSUU",
+        "BUSUU LTD",
+        "BUSUU.COM"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#116EEE"
+    },
+    {
+      "id": "busuu-premium-plus",
+      "name": "Busuu Premium Plus",
+      "companyId": "busuu",
+      "logoAsset": "assets/catalog/logos/services/busuu-premium-plus.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "16.90"
+      },
+      "cancelUrl": "https://play.google.com/store/account/subscriptions",
+      "aliases": [
+        "BUSUU PREMIUM PLUS",
+        "BUSUU PLUS"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#116EEE"
+    },
+    {
+      "id": "canal-plus",
+      "name": "Canal+",
+      "companyId": "canal-plus",
+      "logoAsset": "assets/catalog/logos/services/canal-plus.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "24.99"
+      },
+      "cancelUrl": "https://client.canalplus.com/",
+      "aliases": [
+        "CANAL+",
+        "CANAL PLUS",
+        "CANALPLUS"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "canal-plus-cine-series",
+      "name": "Canal+ Ciné Séries",
+      "companyId": "canal-plus",
+      "logoAsset": "assets/catalog/logos/services/canal-plus-cine-series.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "34.99"
+      },
+      "cancelUrl": "https://client.canalplus.com/",
+      "aliases": [
+        "CANAL+ CINE SERIES",
+        "CANAL PLUS CINE SERIES"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
       "id": "canva-pro",
       "name": "Canva Pro",
       "companyId": "canva",
@@ -691,7 +1734,7 @@
       "category": "software",
       "defaultIntervalMonths": 1,
       "defaultPrices": {
-        "EUR": "20.00"
+        "EUR": "23.00"
       },
       "cancelUrl": "https://chatgpt.com/#settings/Subscription",
       "aliases": [
@@ -705,6 +1748,86 @@
       "brandColor": "#74AA9C"
     },
     {
+      "id": "chatgpt-pro",
+      "name": "ChatGPT Pro",
+      "companyId": "openai",
+      "logoAsset": "assets/catalog/logos/services/chatgpt-pro.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "229.00"
+      },
+      "cancelUrl": "https://chatgpt.com/#settings/Subscription",
+      "aliases": [
+        "CHATGPT PRO",
+        "OPENAI *CHATGPT PRO",
+        "OPENAI CHATGPT PRO"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "claude-max-5x",
+      "name": "Claude Max 5x",
+      "companyId": "anthropic",
+      "logoAsset": "assets/catalog/logos/services/claude-max-5x.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "107.10"
+      },
+      "cancelUrl": "https://claude.ai/settings/billing",
+      "aliases": [
+        "CLAUDE MAX",
+        "ANTHROPIC*MAX",
+        "ANTHROPIC CLAUDE MAX"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#D97757"
+    },
+    {
+      "id": "claude-pro",
+      "name": "Claude Pro",
+      "companyId": "anthropic",
+      "logoAsset": "assets/catalog/logos/services/claude-pro.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "21.42"
+      },
+      "cancelUrl": "https://claude.ai/settings/billing",
+      "aliases": [
+        "CLAUDE.AI SUBSCRIPTION",
+        "CLAUDE.AI",
+        "ANTHROPIC*PRO"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#D97757"
+    },
+    {
+      "id": "clue-plus",
+      "name": "Clue Plus",
+      "companyId": "clue",
+      "logoAsset": "assets/catalog/logos/services/clue-plus.png",
+      "category": "fitness",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
+      "cancelUrl": "https://play.google.com/store/account/subscriptions",
+      "aliases": [
+        "CLUE PLUS",
+        "BIOWINK",
+        "BIOWINK GMBH",
+        "HELLOCLUE"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#EE3D3D"
+    },
+    {
       "id": "crunchyroll",
       "name": "Crunchyroll",
       "companyId": "sony",
@@ -712,7 +1835,7 @@
       "category": "streaming",
       "defaultIntervalMonths": 1,
       "defaultPrices": {
-        "EUR": "6.99"
+        "EUR": "8.99"
       },
       "cancelUrl": "https://www.crunchyroll.com/account/membership",
       "aliases": [
@@ -722,6 +1845,25 @@
         "PAYPAL *CRUNCHYROLL"
       ],
       "trialDays": 7,
+      "verified": false,
+      "brandColor": "#FF5E00"
+    },
+    {
+      "id": "crunchyroll-mega-fan",
+      "name": "Crunchyroll Mega Fan",
+      "companyId": "sony",
+      "logoAsset": "assets/catalog/logos/services/crunchyroll-mega-fan.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "11.99"
+      },
+      "cancelUrl": "https://www.crunchyroll.com/account/membership",
+      "aliases": [
+        "CRUNCHYROLL MEGA FAN",
+        "CRUNCHYROLL MEGAFAN"
+      ],
+      "trialDays": 0,
       "verified": false,
       "brandColor": "#FF5E00"
     },
@@ -747,6 +1889,46 @@
       "brandColor": "#F8F8F5"
     },
     {
+      "id": "dazn-super-sports",
+      "name": "DAZN Super Sports",
+      "companyId": "dazn",
+      "logoAsset": "assets/catalog/logos/services/dazn-super-sports.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "24.99"
+      },
+      "cancelUrl": "https://www.dazn.com/de-DE/myaccount",
+      "aliases": [
+        "DAZN SUPER SPORTS",
+        "DAZN SUPERSPORTS"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#F8F8F5"
+    },
+    {
+      "id": "deepl-pro",
+      "name": "DeepL Pro",
+      "companyId": "deepl",
+      "logoAsset": "assets/catalog/logos/services/deepl-pro.png",
+      "category": "software",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "89.88"
+      },
+      "cancelUrl": "https://support.deepl.com/hc/en-us/articles/360020723719-Cancel-subscription",
+      "aliases": [
+        "DEEPL SE",
+        "DEEPL PRO",
+        "DEEPL.COM",
+        "PAYPAL *DEEPL"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#0F2B46"
+    },
+    {
       "id": "deezer",
       "name": "Deezer",
       "companyId": "deezer",
@@ -768,6 +1950,65 @@
       "brandColor": "#A238FF"
     },
     {
+      "id": "deezer-family",
+      "name": "Deezer Family",
+      "companyId": "deezer",
+      "logoAsset": "assets/catalog/logos/services/deezer-family.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "19.99"
+      },
+      "cancelUrl": "https://www.deezer.com/account/subscription",
+      "aliases": [
+        "DEEZER FAMILY",
+        "DEEZER FAMILIE"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#A238FF"
+    },
+    {
+      "id": "deliveroo-plus-gold",
+      "name": "Deliveroo Plus Gold",
+      "companyId": "deliveroo",
+      "logoAsset": "assets/catalog/logos/services/deliveroo-plus-gold.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "5.99"
+      },
+      "cancelUrl": "https://deliveroo.ie/plus",
+      "aliases": [
+        "DELIVEROO PLUS",
+        "DELIVEROO PLUS GOLD",
+        "DELIVEROO.IE PLUS"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#00CCBC"
+    },
+    {
+      "id": "deutschlandticket",
+      "name": "Deutschlandticket",
+      "companyId": "deutsche-bahn",
+      "logoAsset": "assets/catalog/logos/services/deutschlandticket.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "63.00"
+      },
+      "cancelUrl": "https://abo.bahn.de/portal/",
+      "aliases": [
+        "DEUTSCHLANDTICKET",
+        "DEUTSCHLAND-TICKET",
+        "D-TICKET",
+        "DB DEUTSCHLANDTICKET"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
       "id": "discord-nitro",
       "name": "Discord Nitro",
       "companyId": "discord",
@@ -785,6 +2026,25 @@
         "PAYPAL *DISCORD"
       ],
       "cancelGuide": "Cancel under User Settings then Subscriptions. Nitro perks remain until the paid period ends.",
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#5865F2"
+    },
+    {
+      "id": "discord-nitro-basic",
+      "name": "Discord Nitro Basic",
+      "companyId": "discord",
+      "logoAsset": "assets/catalog/logos/services/discord-nitro-basic.png",
+      "category": "gaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "2.99"
+      },
+      "cancelUrl": "https://discord.com/settings/subscriptions",
+      "aliases": [
+        "DISCORD NITRO BASIC",
+        "NITRO BASIC"
+      ],
       "trialDays": 0,
       "verified": false,
       "brandColor": "#5865F2"
@@ -818,7 +2078,7 @@
       "category": "streaming",
       "defaultIntervalMonths": 1,
       "defaultPrices": {
-        "EUR": "9.99"
+        "EUR": "10.99"
       },
       "cancelUrl": "https://www.disneyplus.com/account/subscription",
       "aliases": [
@@ -830,6 +2090,42 @@
       "trialDays": 0,
       "verified": false,
       "brandColor": "#113CCF"
+    },
+    {
+      "id": "disney-plus-premium",
+      "name": "Disney+ Premium",
+      "companyId": "disney",
+      "logoAsset": "assets/catalog/logos/services/disney-plus-premium.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "15.99"
+      },
+      "cancelUrl": "https://www.disneyplus.com/account/subscription",
+      "aliases": [
+        "DISNEY+ PREMIUM",
+        "DISNEY PLUS PREMIUM"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "disney-plus-standard-with-ads",
+      "name": "Disney+ Standard mit Werbung",
+      "companyId": "disney",
+      "logoAsset": "assets/catalog/logos/services/disney-plus-standard-with-ads.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "6.99"
+      },
+      "cancelUrl": "https://www.disneyplus.com/account/subscription",
+      "aliases": [
+        "DISNEY PLUS WERBUNG",
+        "DISNEY+ STANDARD MIT WERBUNG"
+      ],
+      "trialDays": 0,
+      "verified": false
     },
     {
       "id": "dropbox-plus",
@@ -895,6 +2191,46 @@
       "brandColor": "#000000"
     },
     {
+      "id": "ea-play-pro",
+      "name": "EA Play Pro",
+      "companyId": "electronic-arts",
+      "logoAsset": "assets/catalog/logos/services/ea-play-pro.png",
+      "category": "gaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "16.99"
+      },
+      "cancelUrl": "https://www.ea.com/ea-play",
+      "aliases": [
+        "EA PLAY PRO",
+        "EA *EA PLAY PRO",
+        "ELECTRONIC ARTS PLAY PRO"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#000000"
+    },
+    {
+      "id": "ebay-plus",
+      "name": "eBay Plus",
+      "companyId": "ebay",
+      "logoAsset": "assets/catalog/logos/services/ebay-plus.png",
+      "category": "other",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "19.90"
+      },
+      "cancelUrl": "https://www.ebay.de/ebayplus/home",
+      "aliases": [
+        "EBAY PLUS",
+        "EBAY PLUS MITGLIEDSCHAFT",
+        "PAYPAL *EBAY PLUS"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#E53238"
+    },
+    {
       "id": "evernote",
       "name": "Evernote",
       "companyId": "evernote",
@@ -935,6 +2271,43 @@
       "trialDays": 0,
       "verified": false,
       "brandColor": "#DA3940"
+    },
+    {
+      "id": "filmin",
+      "name": "Filmin",
+      "companyId": "filmin",
+      "logoAsset": "assets/catalog/logos/services/filmin.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
+      "cancelUrl": "https://ayuda.filmin.es/es/support/solutions/articles/47001259888-cancelar-mi-suscripci%C3%B3n",
+      "aliases": [
+        "FILMIN",
+        "FILMIN.ES",
+        "FILMIN S.L."
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "final-fantasy-xiv",
+      "name": "Final Fantasy XIV",
+      "companyId": "square-enix",
+      "logoAsset": "assets/catalog/logos/services/final-fantasy-xiv.png",
+      "category": "gaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "12.99"
+      },
+      "cancelUrl": "https://secure.square-enix.com/account/app/svc/mogstation/",
+      "aliases": [
+        "FINAL FANTASY XIV",
+        "SQEX*FFXIV"
+      ],
+      "trialDays": 0,
+      "verified": false
     },
     {
       "id": "financial-times-digital",
@@ -979,6 +2352,27 @@
       "brandColor": "#00B0B9"
     },
     {
+      "id": "fitx",
+      "name": "FitX",
+      "companyId": "fitx",
+      "logoAsset": "assets/catalog/logos/services/fitx.png",
+      "category": "fitness",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "29.00"
+      },
+      "cancelUrl": "https://www.fitx.de/vertrag-kuendigen",
+      "aliases": [
+        "FITX",
+        "FITX DEUTSCHLAND",
+        "FITX DEUTSCHLAND GMBH",
+        "FIT X"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#EC7404"
+    },
+    {
       "id": "freeletics",
       "name": "Freeletics",
       "companyId": "freeletics",
@@ -999,6 +2393,43 @@
       "verified": false
     },
     {
+      "id": "freenow-plus",
+      "name": "Freenow PLUS",
+      "companyId": "freenow",
+      "logoAsset": "assets/catalog/logos/services/freenow-plus.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "4.99"
+      },
+      "cancelUrl": "https://www.free-now.com/de/fahrt/freenow-plus/",
+      "aliases": [
+        "FREENOW PLUS",
+        "FREE NOW PLUS",
+        "FREENOW*PLUS"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "garmin-connect-plus",
+      "name": "Garmin Connect+",
+      "companyId": "garmin",
+      "logoAsset": "assets/catalog/logos/services/garmin-connect-plus.png",
+      "category": "fitness",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "8.99"
+      },
+      "cancelUrl": "https://support.garmin.com/de-DE/?productID=1565777&tab=topics",
+      "aliases": [
+        "GARMIN CONNECT+"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#000000"
+    },
+    {
       "id": "geforce-now-performance",
       "name": "GeForce NOW Performance",
       "companyId": "nvidia",
@@ -1017,7 +2448,104 @@
       ],
       "trialDays": 0,
       "verified": false,
-      "brandColor": "#001211"
+      "brandColor": "#76B900"
+    },
+    {
+      "id": "geforce-now-ultimate",
+      "name": "GeForce NOW Ultimate",
+      "companyId": "nvidia",
+      "logoAsset": "assets/catalog/logos/services/geforce-now-ultimate.png",
+      "category": "gaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "21.99"
+      },
+      "cancelUrl": "https://www.nvidia.com/account/gfn/",
+      "aliases": [
+        "GEFORCE NOW ULTIMATE",
+        "NVIDIA GFN ULTIMATE",
+        "GFN ULTIMATE"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#76B900"
+    },
+    {
+      "id": "google-ai-plus",
+      "name": "Google AI Plus",
+      "companyId": "google",
+      "logoAsset": "assets/catalog/logos/services/google-ai-plus.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "4.99"
+      },
+      "cancelUrl": "https://one.google.com/settings",
+      "aliases": [
+        "GOOGLE AI PLUS",
+        "GOOGLE *GOOGLE AI PLUS"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#4285F4"
+    },
+    {
+      "id": "google-ai-pro",
+      "name": "Google AI Pro",
+      "companyId": "google",
+      "logoAsset": "assets/catalog/logos/services/google-ai-pro.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "21.99"
+      },
+      "cancelUrl": "https://one.google.com/settings",
+      "aliases": [
+        "GOOGLE AI PRO",
+        "GOOGLE *GOOGLE AI PRO",
+        "GEMINI ADVANCED",
+        "GOOGLE *GEMINI"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#4285F4"
+    },
+    {
+      "id": "google-ai-ultra",
+      "name": "Google AI Ultra",
+      "companyId": "google",
+      "logoAsset": "assets/catalog/logos/services/google-ai-ultra.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "99.99"
+      },
+      "cancelUrl": "https://one.google.com/settings",
+      "aliases": [
+        "GOOGLE AI ULTRA",
+        "GOOGLE *GOOGLE AI ULTRA"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#4285F4"
+    },
+    {
+      "id": "google-ai-ultra-20x",
+      "name": "Google AI Ultra (20x)",
+      "companyId": "google",
+      "logoAsset": "assets/catalog/logos/services/google-ai-ultra-20x.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "219.99"
+      },
+      "cancelUrl": "https://one.google.com/settings",
+      "aliases": [
+        "GOOGLE AI ULTRA 20X"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#4285F4"
     },
     {
       "id": "google-one-100gb",
@@ -1124,6 +2652,26 @@
       "verified": false
     },
     {
+      "id": "hayu",
+      "name": "hayu",
+      "companyId": "hayu",
+      "logoAsset": "assets/catalog/logos/services/hayu.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "4.99"
+      },
+      "cancelUrl": "https://www.hayu.com/",
+      "aliases": [
+        "HAYU",
+        "HAYU.COM",
+        "PAYPAL *HAYU"
+      ],
+      "trialDays": 7,
+      "verified": false,
+      "brandColor": "#FF285A"
+    },
+    {
       "id": "headspace",
       "name": "Headspace",
       "companyId": "headspace",
@@ -1145,6 +2693,46 @@
       "brandColor": "#F47D31"
     },
     {
+      "id": "humble-choice",
+      "name": "Humble Choice",
+      "companyId": "humble-bundle",
+      "logoAsset": "assets/catalog/logos/services/humble-choice.png",
+      "category": "gaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "12.99"
+      },
+      "cancelUrl": "https://www.humblebundle.com/user/settings",
+      "aliases": [
+        "HUMBLE CHOICE"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#CB272C"
+    },
+    {
+      "id": "icloud-plus-12tb",
+      "name": "iCloud+ 12 TB",
+      "companyId": "apple",
+      "logoAsset": "assets/catalog/logos/services/icloud-plus-12tb.png",
+      "category": "storage",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "59.99"
+      },
+      "cancelUrl": "https://support.apple.com/billing",
+      "aliases": [
+        "ICLOUD+ 12TB",
+        "ICLOUD 12TB",
+        "ICLOUD 12 TB",
+        "ICLOUD+ 12 TB",
+        "ICLOUD+ WITH 12 TB"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#3693F3"
+    },
+    {
       "id": "icloud-plus-200gb",
       "name": "iCloud+ 200 GB",
       "companyId": "apple",
@@ -1160,6 +2748,28 @@
         "ICLOUD",
         "ICLOUD+ 200GB",
         "APL* ICLOUD"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#3693F3"
+    },
+    {
+      "id": "icloud-plus-2tb",
+      "name": "iCloud+ 2 TB",
+      "companyId": "apple",
+      "logoAsset": "assets/catalog/logos/services/icloud-plus-2tb.png",
+      "category": "storage",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
+      "cancelUrl": "https://support.apple.com/billing",
+      "aliases": [
+        "ICLOUD+ 2TB",
+        "ICLOUD 2TB",
+        "ICLOUD 2 TB",
+        "ICLOUD+ 2 TB",
+        "ICLOUD+ WITH 2 TB"
       ],
       "trialDays": 0,
       "verified": false,
@@ -1185,6 +2795,48 @@
       "trialDays": 0,
       "verified": true,
       "brandColor": "#3693F3"
+    },
+    {
+      "id": "icloud-plus-6tb",
+      "name": "iCloud+ 6 TB",
+      "companyId": "apple",
+      "logoAsset": "assets/catalog/logos/services/icloud-plus-6tb.png",
+      "category": "storage",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "29.99"
+      },
+      "cancelUrl": "https://support.apple.com/billing",
+      "aliases": [
+        "ICLOUD+ 6TB",
+        "ICLOUD 6TB",
+        "ICLOUD 6 TB",
+        "ICLOUD+ 6 TB",
+        "ICLOUD+ WITH 6 TB"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#3693F3"
+    },
+    {
+      "id": "joyn-plus",
+      "name": "Joyn PLUS+",
+      "companyId": "joyn",
+      "logoAsset": "assets/catalog/logos/services/joyn-plus.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "8.99"
+      },
+      "cancelUrl": "https://community.joyn.de/dein-plus-abo-31/wie-kann-ich-joyn-plus-kuendigen-227",
+      "aliases": [
+        "JOYN",
+        "JOYN PLUS",
+        "JOYN GMBH",
+        "PAYPAL *JOYN"
+      ],
+      "trialDays": 7,
+      "verified": false
     },
     {
       "id": "kindle-unlimited",
@@ -1257,7 +2909,7 @@
       "category": "telco",
       "defaultIntervalMonths": 1,
       "defaultPrices": {
-        "EUR": "10.00"
+        "EUR": "11.00"
       },
       "cancelUrl": "https://www.telekom.de/kontakt",
       "aliases": [
@@ -1271,6 +2923,82 @@
       "brandColor": "#E20074"
     },
     {
+      "id": "magenta-tv-megastream",
+      "name": "MagentaTV MegaStream",
+      "companyId": "deutsche-telekom",
+      "logoAsset": "assets/catalog/logos/services/magenta-tv-megastream.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "30.00"
+      },
+      "cancelUrl": "https://www.telekom.de/kundencenter",
+      "aliases": [
+        "MAGENTATV MEGASTREAM",
+        "MAGENTA TV MEGASTREAM"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#E20074"
+    },
+    {
+      "id": "magenta-tv-smartstream",
+      "name": "MagentaTV SmartStream",
+      "companyId": "deutsche-telekom",
+      "logoAsset": "assets/catalog/logos/services/magenta-tv-smartstream.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "17.00"
+      },
+      "cancelUrl": "https://www.telekom.de/kundencenter",
+      "aliases": [
+        "MAGENTATV SMARTSTREAM",
+        "MAGENTA TV SMARTSTREAM"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#E20074"
+    },
+    {
+      "id": "max-basic-with-ads",
+      "name": "HBO Max Basis mit Werbung",
+      "companyId": "warner-bros-discovery",
+      "logoAsset": "assets/catalog/logos/services/max-basic-with-ads.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "5.99"
+      },
+      "cancelUrl": "https://www.hbomax.com/de/de",
+      "aliases": [
+        "HBO MAX BASIS",
+        "HBO MAX WERBUNG"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#000000"
+    },
+    {
+      "id": "max-premium",
+      "name": "HBO Max Premium",
+      "companyId": "warner-bros-discovery",
+      "logoAsset": "assets/catalog/logos/services/max-premium.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "16.99"
+      },
+      "cancelUrl": "https://www.hbomax.com/de/de",
+      "aliases": [
+        "HBO MAX PREMIUM",
+        "HBO MAX 4K"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#000000"
+    },
+    {
       "id": "max-standard",
       "name": "Max Standard",
       "companyId": "warner-bros-discovery",
@@ -1278,7 +3006,7 @@
       "category": "streaming",
       "defaultIntervalMonths": 1,
       "defaultPrices": {
-        "EUR": "9.99"
+        "EUR": "11.99"
       },
       "cancelUrl": "https://auth.max.com/subscription",
       "aliases": [
@@ -1290,6 +3018,44 @@
       "trialDays": 0,
       "verified": false,
       "brandColor": "#525252"
+    },
+    {
+      "id": "mcfit-premium",
+      "name": "McFIT Premium",
+      "companyId": "mcfit",
+      "logoAsset": "assets/catalog/logos/services/mcfit-premium.png",
+      "category": "fitness",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "39.90"
+      },
+      "cancelUrl": "https://hilfe.mcfit.com/hc/de/requests/new?labels=__dc.tf_kuendigung_einreichen__&ticket_form_id=13313567711505",
+      "aliases": [
+        "MCFIT PREMIUM"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#F5E51E"
+    },
+    {
+      "id": "mcfit-standard",
+      "name": "McFIT Standard",
+      "companyId": "mcfit",
+      "logoAsset": "assets/catalog/logos/services/mcfit-standard.png",
+      "category": "fitness",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "29.90"
+      },
+      "cancelUrl": "https://hilfe.mcfit.com/hc/de/requests/new?labels=__dc.tf_kuendigung_einreichen__&ticket_form_id=13313567711505",
+      "aliases": [
+        "MCFIT",
+        "MCFIT GMBH",
+        "MC FIT"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#F5E51E"
     },
     {
       "id": "microsoft-365-basic",
@@ -1313,6 +3079,27 @@
       "brandColor": "#5E5E5E"
     },
     {
+      "id": "microsoft-365-family",
+      "name": "Microsoft 365 Family",
+      "companyId": "microsoft",
+      "logoAsset": "assets/catalog/logos/services/microsoft-365-family.png",
+      "category": "software",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "129.00"
+      },
+      "cancelUrl": "https://account.microsoft.com/services",
+      "aliases": [
+        "MICROSOFT 365 FAMILY",
+        "MSFT *M365 FAMILY",
+        "MICROSOFT*MICROSOFT 365 F",
+        "OFFICE 365 FAMILY"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#5E5E5E"
+    },
+    {
       "id": "microsoft-365-personal",
       "name": "Microsoft 365 Personal",
       "companyId": "microsoft",
@@ -1320,7 +3107,7 @@
       "category": "software",
       "defaultIntervalMonths": 12,
       "defaultPrices": {
-        "EUR": "69.00"
+        "EUR": "99.00"
       },
       "cancelUrl": "https://account.microsoft.com/services",
       "aliases": [
@@ -1334,6 +3121,45 @@
       "brandColor": "#5E5E5E"
     },
     {
+      "id": "microsoft-365-premium",
+      "name": "Microsoft 365 Premium",
+      "companyId": "microsoft",
+      "logoAsset": "assets/catalog/logos/services/microsoft-365-premium.png",
+      "category": "software",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "219.00"
+      },
+      "cancelUrl": "https://account.microsoft.com/services",
+      "aliases": [
+        "MICROSOFT 365 PREMIUM",
+        "MSFT *M365 PREMIUM"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#5E5E5E"
+    },
+    {
+      "id": "minecraft-realms-plus",
+      "name": "Minecraft Realms Plus",
+      "companyId": "microsoft",
+      "logoAsset": "assets/catalog/logos/services/minecraft-realms-plus.png",
+      "category": "gaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "7.99"
+      },
+      "cancelUrl": "https://account.microsoft.com/services",
+      "aliases": [
+        "REALMS PLUS",
+        "MINECRAFT REALMS PLUS",
+        "MINECRAFT REALMS"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#62B47A"
+    },
+    {
       "id": "mubi",
       "name": "MUBI",
       "companyId": "mubi",
@@ -1341,7 +3167,7 @@
       "category": "streaming",
       "defaultIntervalMonths": 1,
       "defaultPrices": {
-        "EUR": "18.99"
+        "EUR": "13.99"
       },
       "cancelUrl": "https://mubi.com/account",
       "aliases": [
@@ -1355,6 +3181,123 @@
       "brandColor": "#000000"
     },
     {
+      "id": "mubi-go",
+      "name": "MUBI GO",
+      "companyId": "mubi",
+      "logoAsset": "assets/catalog/logos/services/mubi-go.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "18.99"
+      },
+      "cancelUrl": "https://mubi.com/account",
+      "aliases": [
+        "MUBI GO",
+        "MUBI GO KINO"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#000000"
+    },
+    {
+      "id": "mullvad-vpn",
+      "name": "Mullvad VPN",
+      "companyId": "mullvad",
+      "logoAsset": "assets/catalog/logos/services/mullvad-vpn.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "5.00"
+      },
+      "cancelUrl": "https://mullvad.net/en/account",
+      "aliases": [
+        "MULLVAD",
+        "MULLVAD VPN",
+        "MULLVAD VPN AB",
+        "AMAGICOM"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#294D73"
+    },
+    {
+      "id": "n26-go",
+      "name": "N26 Go",
+      "companyId": "n26",
+      "logoAsset": "assets/catalog/logos/services/n26-go.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "9.90"
+      },
+      "cancelUrl": "https://support.n26.com/de-de/mitgliedschaften-und-kontotypen/premiumkonten/wie-kundige-ich-meine-n26-premium-mitgliedschaft",
+      "aliases": [
+        "N26 GO",
+        "N26 YOU",
+        "N26 GO MITGLIEDSCHAFT"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#48AC98"
+    },
+    {
+      "id": "n26-metal",
+      "name": "N26 Metal",
+      "companyId": "n26",
+      "logoAsset": "assets/catalog/logos/services/n26-metal.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "16.90"
+      },
+      "cancelUrl": "https://support.n26.com/de-de/mitgliedschaften-und-kontotypen/premiumkonten/wie-kundige-ich-meine-n26-premium-mitgliedschaft",
+      "aliases": [
+        "N26 METAL",
+        "N26 METAL MITGLIEDSCHAFT"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#48AC98"
+    },
+    {
+      "id": "n26-smart",
+      "name": "N26 Smart",
+      "companyId": "n26",
+      "logoAsset": "assets/catalog/logos/services/n26-smart.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "4.90"
+      },
+      "cancelUrl": "https://support.n26.com/de-de/mitgliedschaften-und-kontotypen/premiumkonten/wie-kundige-ich-meine-n26-premium-mitgliedschaft",
+      "aliases": [
+        "N26 SMART",
+        "N26 SMART MITGLIEDSCHAFT"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#48AC98"
+    },
+    {
+      "id": "netflix-premium",
+      "name": "Netflix Premium",
+      "companyId": "netflix",
+      "logoAsset": "assets/catalog/logos/services/netflix-premium.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "21.99"
+      },
+      "cancelUrl": "https://www.netflix.com/cancelplan",
+      "aliases": [
+        "NETFLIX PREMIUM",
+        "NETFLIX 4K"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#E50914"
+    },
+    {
       "id": "netflix-standard",
       "name": "Netflix Standard",
       "companyId": "netflix",
@@ -1362,7 +3305,7 @@
       "category": "streaming",
       "defaultIntervalMonths": 1,
       "defaultPrices": {
-        "EUR": "13.99"
+        "EUR": "15.99"
       },
       "cancelUrl": "https://www.netflix.com/cancelplan",
       "cancelGuide": "Sign in at netflix.com, open Account, then select Cancel Membership. Access continues until the end of the current billing period.",
@@ -1371,6 +3314,25 @@
         "NETFLIX.COM",
         "NETFLIX INTL",
         "PAYPAL *NETFLIX"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#E50914"
+    },
+    {
+      "id": "netflix-standard-with-ads",
+      "name": "Netflix Standard mit Werbung",
+      "companyId": "netflix",
+      "logoAsset": "assets/catalog/logos/services/netflix-standard-with-ads.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "6.99"
+      },
+      "cancelUrl": "https://www.netflix.com/cancelplan",
+      "aliases": [
+        "NETFLIX STANDARD MIT WERBUNG",
+        "NETFLIX WERBUNG"
       ],
       "trialDays": 0,
       "verified": false,
@@ -1396,6 +3358,64 @@
       "trialDays": 0,
       "verified": false,
       "brandColor": "#000000"
+    },
+    {
+      "id": "nextory-basic",
+      "name": "Nextory Basic",
+      "companyId": "nextory",
+      "logoAsset": "assets/catalog/logos/services/nextory-basic.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
+      "cancelUrl": "https://www.nextory.com/de/",
+      "aliases": [
+        "NEXTORY",
+        "NEXTORY AB",
+        "NEXTORY.COM",
+        "PAYPAL *NEXTORY"
+      ],
+      "trialDays": 14,
+      "verified": false,
+      "brandColor": "#F6495B"
+    },
+    {
+      "id": "nextory-family",
+      "name": "Nextory Family",
+      "companyId": "nextory",
+      "logoAsset": "assets/catalog/logos/services/nextory-family.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "19.99"
+      },
+      "cancelUrl": "https://www.nextory.com/de/",
+      "aliases": [
+        "NEXTORY FAMILY",
+        "NEXTORY FAMILIE"
+      ],
+      "trialDays": 14,
+      "verified": false,
+      "brandColor": "#F6495B"
+    },
+    {
+      "id": "nextory-premium",
+      "name": "Nextory Premium",
+      "companyId": "nextory",
+      "logoAsset": "assets/catalog/logos/services/nextory-premium.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "14.99"
+      },
+      "cancelUrl": "https://www.nextory.com/de/",
+      "aliases": [
+        "NEXTORY PREMIUM"
+      ],
+      "trialDays": 14,
+      "verified": false,
+      "brandColor": "#F6495B"
     },
     {
       "id": "nintendo-switch-online",
@@ -1461,6 +3481,26 @@
       "brandColor": "#4687FF"
     },
     {
+      "id": "norton-360-deluxe",
+      "name": "Norton 360 Deluxe",
+      "companyId": "norton",
+      "logoAsset": "assets/catalog/logos/services/norton-360-deluxe.png",
+      "category": "software",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "109.99"
+      },
+      "cancelUrl": "https://support.norton.com/sp/en/us/home/current/solutions/kb20090818144126EN",
+      "aliases": [
+        "NORTON ANNUAL RENEWAL",
+        "NORTON 360",
+        "NORTON *AP"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#FFE01A"
+    },
+    {
       "id": "notion-plus",
       "name": "Notion Plus",
       "companyId": "notion",
@@ -1480,6 +3520,25 @@
       "trialDays": 0,
       "verified": false,
       "brandColor": "#000000"
+    },
+    {
+      "id": "npo-plus",
+      "name": "NPO Plus",
+      "companyId": "npo",
+      "logoAsset": "assets/catalog/logos/services/npo-plus.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "3.49"
+      },
+      "cancelUrl": "https://npo.nl/start/plus",
+      "aliases": [
+        "NPO PLUS",
+        "NEDERLANDSE PUBLIEKE OMROEP"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#FC6C00"
     },
     {
       "id": "o2-tv",
@@ -1503,6 +3562,24 @@
       "brandColor": "#0050FF"
     },
     {
+      "id": "oura-membership",
+      "name": "Oura Membership",
+      "companyId": "oura",
+      "logoAsset": "assets/catalog/logos/services/oura-membership.png",
+      "category": "fitness",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "5.99"
+      },
+      "cancelUrl": "https://support.ouraring.com/hc/en-us/articles/4409086524819-Oura-Membership",
+      "aliases": [
+        "OURA MEMBERSHIP"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#2F4A73"
+    },
+    {
       "id": "paramount-plus",
       "name": "Paramount+",
       "companyId": "paramount",
@@ -1510,7 +3587,7 @@
       "category": "streaming",
       "defaultIntervalMonths": 1,
       "defaultPrices": {
-        "EUR": "7.99"
+        "EUR": "9.99"
       },
       "cancelUrl": "https://www.paramountplus.com/account/",
       "aliases": [
@@ -1522,6 +3599,103 @@
       "trialDays": 7,
       "verified": false,
       "brandColor": "#0064FF"
+    },
+    {
+      "id": "paramount-plus-basic",
+      "name": "Paramount+ Basis mit Werbung",
+      "companyId": "paramount",
+      "logoAsset": "assets/catalog/logos/services/paramount-plus-basic.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "5.99"
+      },
+      "cancelUrl": "https://www.paramountplus.com/de/account/",
+      "aliases": [
+        "PARAMOUNT+ BASIS",
+        "PARAMOUNT PLUS BASIS"
+      ],
+      "trialDays": 7,
+      "verified": false,
+      "brandColor": "#0064FF"
+    },
+    {
+      "id": "paramount-plus-premium",
+      "name": "Paramount+ Premium",
+      "companyId": "paramount",
+      "logoAsset": "assets/catalog/logos/services/paramount-plus-premium.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "12.99"
+      },
+      "cancelUrl": "https://www.paramountplus.com/de/account/",
+      "aliases": [
+        "PARAMOUNT+ PREMIUM",
+        "PARAMOUNT PLUS PREMIUM"
+      ],
+      "trialDays": 7,
+      "verified": false,
+      "brandColor": "#0064FF"
+    },
+    {
+      "id": "pc-game-pass",
+      "name": "PC Game Pass",
+      "companyId": "microsoft",
+      "logoAsset": "assets/catalog/logos/services/pc-game-pass.png",
+      "category": "gaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "12.99"
+      },
+      "cancelUrl": "https://account.microsoft.com/services",
+      "aliases": [
+        "PC GAME PASS",
+        "MICROSOFT*PC GAME PASS",
+        "XBOX PC GAME PASS"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#107C10"
+    },
+    {
+      "id": "pcloud-premium",
+      "name": "pCloud Premium 500 GB",
+      "companyId": "pcloud",
+      "logoAsset": "assets/catalog/logos/services/pcloud-premium.png",
+      "category": "storage",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "4.99"
+      },
+      "cancelUrl": "https://www.pcloud.com/help/general-help-center/how-do-i-cancel-my-subscription",
+      "aliases": [
+        "PCLOUD",
+        "PCLOUD AG",
+        "PCLOUD.COM",
+        "PAYPAL *PCLOUD"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#1EBCC5"
+    },
+    {
+      "id": "pcloud-premium-plus",
+      "name": "pCloud Premium Plus 2 TB",
+      "companyId": "pcloud",
+      "logoAsset": "assets/catalog/logos/services/pcloud-premium-plus.png",
+      "category": "storage",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
+      "cancelUrl": "https://www.pcloud.com/help/general-help-center/how-do-i-cancel-my-subscription",
+      "aliases": [
+        "PCLOUD PREMIUM PLUS"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#1EBCC5"
     },
     {
       "id": "peloton-app",
@@ -1566,6 +3740,84 @@
       "brandColor": "#0070D1"
     },
     {
+      "id": "playstation-plus-extra",
+      "name": "PlayStation Plus Extra",
+      "companyId": "sony",
+      "logoAsset": "assets/catalog/logos/services/playstation-plus-extra.png",
+      "category": "gaming",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "125.99"
+      },
+      "cancelUrl": "https://www.playstation.com/support/store/cancel-ps-store-subscription/",
+      "aliases": [
+        "PS PLUS EXTRA",
+        "PLAYSTATION PLUS EXTRA",
+        "PSN PLUS EXTRA"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#0070D1"
+    },
+    {
+      "id": "playstation-plus-premium",
+      "name": "PlayStation Plus Premium",
+      "companyId": "sony",
+      "logoAsset": "assets/catalog/logos/services/playstation-plus-premium.png",
+      "category": "gaming",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "151.99"
+      },
+      "cancelUrl": "https://www.playstation.com/support/store/cancel-ps-store-subscription/",
+      "aliases": [
+        "PS PLUS PREMIUM",
+        "PLAYSTATION PLUS PREMIUM",
+        "PSN PLUS PREMIUM"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#0070D1"
+    },
+    {
+      "id": "prime-video-ad-free",
+      "name": "Prime Video werbefrei",
+      "companyId": "amazon",
+      "logoAsset": "assets/catalog/logos/services/prime-video-ad-free.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "2.99"
+      },
+      "cancelUrl": "https://www.amazon.de/gp/video/settings",
+      "aliases": [
+        "PRIME VIDEO WERBEFREI",
+        "PRIME VIDEO AD FREE",
+        "AMAZON PRIME VIDEO WERBEFREI"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#1F2E3E"
+    },
+    {
+      "id": "proton-drive-plus",
+      "name": "Proton Drive Plus",
+      "companyId": "proton",
+      "logoAsset": "assets/catalog/logos/services/proton-drive-plus.png",
+      "category": "storage",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "4.99"
+      },
+      "cancelUrl": "https://account.proton.me/u/0/drive/dashboard",
+      "aliases": [
+        "PROTON DRIVE"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#EB508D"
+    },
+    {
       "id": "proton-mail-plus",
       "name": "Proton Mail Plus",
       "companyId": "proton",
@@ -1581,6 +3833,44 @@
         "PROTON MAIL",
         "PROTON AG",
         "PAYPAL *PROTON"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#6D4AFF"
+    },
+    {
+      "id": "proton-pass-plus",
+      "name": "Proton Pass Plus",
+      "companyId": "proton",
+      "logoAsset": "assets/catalog/logos/services/proton-pass-plus.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "4.99"
+      },
+      "cancelUrl": "https://account.proton.me/pass/dashboard",
+      "aliases": [
+        "PROTON PASS",
+        "PROTONPASS",
+        "PROTON PASS PLUS"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#6D4AFF"
+    },
+    {
+      "id": "proton-unlimited",
+      "name": "Proton Unlimited",
+      "companyId": "proton",
+      "logoAsset": "assets/catalog/logos/services/proton-unlimited.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "12.99"
+      },
+      "cancelUrl": "https://account.proton.me/u/0/mail/dashboard",
+      "aliases": [
+        "PROTON UNLIMITED"
       ],
       "trialDays": 0,
       "verified": false,
@@ -1608,6 +3898,104 @@
       "brandColor": "#66DEB1"
     },
     {
+      "id": "qobuz-studio",
+      "name": "Qobuz Studio",
+      "companyId": "qobuz",
+      "logoAsset": "assets/catalog/logos/services/qobuz-studio.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "15.99"
+      },
+      "cancelUrl": "https://help.qobuz.com/en/articles/10157-how-do-i-cancel-my-subscription",
+      "aliases": [
+        "QOBUZ",
+        "QOBUZ.COM",
+        "PAYPAL *QOBUZ",
+        "XANDRIE",
+        "XANDRIE SA"
+      ],
+      "trialDays": 30,
+      "verified": false
+    },
+    {
+      "id": "qobuz-studio-family",
+      "name": "Qobuz Studio Family",
+      "companyId": "qobuz",
+      "logoAsset": "assets/catalog/logos/services/qobuz-studio-family.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "24.99"
+      },
+      "cancelUrl": "https://help.qobuz.com/en/articles/10157-how-do-i-cancel-my-subscription",
+      "aliases": [
+        "QOBUZ FAMILY",
+        "QOBUZ STUDIO FAMILY"
+      ],
+      "trialDays": 30,
+      "verified": false
+    },
+    {
+      "id": "readly",
+      "name": "Readly",
+      "companyId": "readly",
+      "logoAsset": "assets/catalog/logos/services/readly.png",
+      "category": "news",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "14.99"
+      },
+      "cancelUrl": "https://my.readly.com/",
+      "aliases": [
+        "READLY",
+        "READLY.COM",
+        "READLY INTERNATIONAL",
+        "PAYPAL *READLY"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#FBAC2C"
+    },
+    {
+      "id": "revolut-metal",
+      "name": "Revolut Metal",
+      "companyId": "revolut",
+      "logoAsset": "assets/catalog/logos/services/revolut-metal.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "15.99"
+      },
+      "cancelUrl": "https://help.revolut.com/help/profile-and-plan/profile-plan/upgrading-my-plan/downgrading-my-plan/",
+      "aliases": [
+        "REVOLUT METAL",
+        "REVOLUT METAL PLAN"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#191C1F"
+    },
+    {
+      "id": "revolut-plus",
+      "name": "Revolut Plus",
+      "companyId": "revolut",
+      "logoAsset": "assets/catalog/logos/services/revolut-plus.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "2.99"
+      },
+      "cancelUrl": "https://help.revolut.com/help/profile-and-plan/profile-plan/upgrading-my-plan/downgrading-my-plan/",
+      "aliases": [
+        "REVOLUT PLUS",
+        "REVOLUT PLUS PLAN"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#191C1F"
+    },
+    {
       "id": "revolut-premium",
       "name": "Revolut Premium",
       "companyId": "revolut",
@@ -1615,7 +4003,7 @@
       "category": "other",
       "defaultIntervalMonths": 1,
       "defaultPrices": {
-        "EUR": "9.99"
+        "EUR": "8.99"
       },
       "cancelUrl": "https://help.revolut.com/help/profile-and-plan/profile-plan/upgrading-my-plan/downgrading-my-plan/",
       "aliases": [
@@ -1627,6 +4015,124 @@
       "trialDays": 0,
       "verified": false,
       "brandColor": "#191C1F"
+    },
+    {
+      "id": "revolut-ultra",
+      "name": "Revolut Ultra",
+      "companyId": "revolut",
+      "logoAsset": "assets/catalog/logos/services/revolut-ultra.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "65.00"
+      },
+      "cancelUrl": "https://help.revolut.com/help/profile-and-plan/profile-plan/upgrading-my-plan/downgrading-my-plan/",
+      "aliases": [
+        "REVOLUT ULTRA",
+        "REVOLUT ULTRA PLAN"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#191C1F"
+    },
+    {
+      "id": "rtl-plus-basic",
+      "name": "RTL+ Basic",
+      "companyId": "rtl-plus",
+      "logoAsset": "assets/catalog/logos/services/rtl-plus-basic.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "5.99"
+      },
+      "cancelUrl": "https://plus.rtl.de/",
+      "aliases": [
+        "RTL+ BASIC",
+        "RTL PLUS BASIC"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#FA002E"
+    },
+    {
+      "id": "rtl-plus-musik",
+      "name": "RTL+ Musik",
+      "companyId": "rtl-plus",
+      "logoAsset": "assets/catalog/logos/services/rtl-plus-musik.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "14.99"
+      },
+      "cancelUrl": "https://plus.rtl.de/",
+      "aliases": [
+        "RTL+ MUSIK",
+        "RTL+ MAX",
+        "RTL PLUS MAX"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#FA002E"
+    },
+    {
+      "id": "rtl-plus-premium",
+      "name": "RTL+ Premium",
+      "companyId": "rtl-plus",
+      "logoAsset": "assets/catalog/logos/services/rtl-plus-premium.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
+      "cancelUrl": "https://plus.rtl.de/",
+      "aliases": [
+        "RTL+",
+        "RTL PLUS",
+        "RTLPLUS.COM",
+        "RTL DEUTSCHLAND",
+        "PAYPAL *RTLPLUS"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#FA002E"
+    },
+    {
+      "id": "rtl-plus-premium-ad-free",
+      "name": "RTL+ Premium Werbefrei",
+      "companyId": "rtl-plus",
+      "logoAsset": "assets/catalog/logos/services/rtl-plus-premium-ad-free.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "12.99"
+      },
+      "cancelUrl": "https://plus.rtl.de/",
+      "aliases": [
+        "RTL+ PREMIUM WERBEFREI",
+        "RTL PLUS WERBEFREI"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#FA002E"
+    },
+    {
+      "id": "runna",
+      "name": "Runna",
+      "companyId": "strava",
+      "logoAsset": "assets/catalog/logos/services/runna.png",
+      "category": "fitness",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "119.99"
+      },
+      "cancelUrl": "https://play.google.com/store/account/subscriptions",
+      "aliases": [
+        "RUNNA",
+        "RUNNA.COM",
+        "RUNNA LTD"
+      ],
+      "trialDays": 7,
+      "verified": false
     },
     {
       "id": "skyshowtime-standard",
@@ -1692,6 +4198,44 @@
       "brandColor": "#E64415"
     },
     {
+      "id": "spotify-duo",
+      "name": "Spotify Premium Duo",
+      "companyId": "spotify",
+      "logoAsset": "assets/catalog/logos/services/spotify-duo.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "17.99"
+      },
+      "cancelUrl": "https://www.spotify.com/account/subscription/",
+      "aliases": [
+        "SPOTIFY DUO",
+        "SPOTIFY PREMIUM DUO"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#1ED760"
+    },
+    {
+      "id": "spotify-family",
+      "name": "Spotify Premium Family",
+      "companyId": "spotify",
+      "logoAsset": "assets/catalog/logos/services/spotify-family.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "21.99"
+      },
+      "cancelUrl": "https://www.spotify.com/account/subscription/",
+      "aliases": [
+        "SPOTIFY FAMILY",
+        "SPOTIFY PREMIUM FAMILY"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#1ED760"
+    },
+    {
       "id": "spotify-premium",
       "name": "Spotify Premium",
       "companyId": "spotify",
@@ -1699,7 +4243,7 @@
       "category": "streaming",
       "defaultIntervalMonths": 1,
       "defaultPrices": {
-        "EUR": "11.99"
+        "EUR": "12.99"
       },
       "cancelUrl": "https://www.spotify.com/account/subscription/",
       "cancelGuide": "Open your Spotify account page in a browser, go to Available plans, and choose Cancel Premium. Your account reverts to the free tier after the paid period ends.",
@@ -1708,6 +4252,25 @@
         "SPOTIFY P",
         "SPOTIFY AB",
         "PAYPAL *SPOTIFY"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#1ED760"
+    },
+    {
+      "id": "spotify-student",
+      "name": "Spotify Premium Student",
+      "companyId": "spotify",
+      "logoAsset": "assets/catalog/logos/services/spotify-student.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "6.99"
+      },
+      "cancelUrl": "https://www.spotify.com/account/subscription/",
+      "aliases": [
+        "SPOTIFY STUDENT",
+        "SPOTIFY PREMIUM STUDENT"
       ],
       "trialDays": 30,
       "verified": false,
@@ -1734,6 +4297,25 @@
       "verified": false
     },
     {
+      "id": "strava-runna-bundle",
+      "name": "Strava + Runna",
+      "companyId": "strava",
+      "logoAsset": "assets/catalog/logos/services/strava-runna-bundle.png",
+      "category": "fitness",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "129.99"
+      },
+      "cancelUrl": "https://www.strava.com/account",
+      "aliases": [
+        "STRAVA RUNNA",
+        "STRAVA + RUNNA"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#FC4C02"
+    },
+    {
       "id": "strava-subscription",
       "name": "Strava Subscription",
       "companyId": "strava",
@@ -1753,6 +4335,23 @@
       "trialDays": 30,
       "verified": false,
       "brandColor": "#FC4C02"
+    },
+    {
+      "id": "tagesspiegel-plus",
+      "name": "Tagesspiegel Plus",
+      "companyId": "tagesspiegel",
+      "logoAsset": "assets/catalog/logos/services/tagesspiegel-plus.png",
+      "category": "news",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "14.99"
+      },
+      "cancelUrl": "https://abo.tagesspiegel.de/abo-kuendigen",
+      "aliases": [
+        "TAGESSPIEGEL PLUS"
+      ],
+      "trialDays": 0,
+      "verified": false
     },
     {
       "id": "the-economist-digital",
@@ -1776,6 +4375,25 @@
       "brandColor": "#E3120B"
     },
     {
+      "id": "tidal-family",
+      "name": "TIDAL Family",
+      "companyId": "tidal",
+      "logoAsset": "assets/catalog/logos/services/tidal-family.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "21.99"
+      },
+      "cancelUrl": "https://account.tidal.com/",
+      "aliases": [
+        "TIDAL FAMILY",
+        "TIDAL.COM FAMILY"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#000000"
+    },
+    {
       "id": "tidal-individual",
       "name": "TIDAL Individual",
       "companyId": "tidal",
@@ -1783,7 +4401,7 @@
       "category": "streaming",
       "defaultIntervalMonths": 1,
       "defaultPrices": {
-        "EUR": "10.99"
+        "EUR": "12.99"
       },
       "cancelUrl": "https://account.tidal.com/",
       "aliases": [
@@ -1795,6 +4413,27 @@
       "trialDays": 30,
       "verified": false,
       "brandColor": "#000000"
+    },
+    {
+      "id": "todoist-pro",
+      "name": "Todoist Pro",
+      "companyId": "doist",
+      "logoAsset": "assets/catalog/logos/services/todoist-pro.png",
+      "category": "software",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "7.00"
+      },
+      "cancelUrl": "https://www.todoist.com/help/articles/cancel-a-todoist-subscription-08AmJLVkC",
+      "aliases": [
+        "DOIST",
+        "TODOIST PRO",
+        "DOIST INC",
+        "PAYPAL *DOIST"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#E44332"
     },
     {
       "id": "twitch-turbo",
@@ -1818,6 +4457,27 @@
       "brandColor": "#9146FF"
     },
     {
+      "id": "uber-one",
+      "name": "Uber One",
+      "companyId": "uber",
+      "logoAsset": "assets/catalog/logos/services/uber-one.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "4.99"
+      },
+      "cancelUrl": "https://help.uber.com/en/riders/article/wie-kann-ich-mein-uber%C2%A0one%C2%A0abonnement-k%C3%BCndigen?nodeId=9f445eb9-505f-4862-9e70-9c0d66784e0a",
+      "aliases": [
+        "UBER ONE",
+        "UBER *ONE",
+        "UBER *ONE MEMBERSHIP",
+        "UBER ONE MEMBERSHIP"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#000000"
+    },
+    {
       "id": "ubisoft-plus",
       "name": "Ubisoft+",
       "companyId": "ubisoft",
@@ -1839,6 +4499,120 @@
       "brandColor": "#000000"
     },
     {
+      "id": "ubisoft-plus-classics",
+      "name": "Ubisoft+ Classics",
+      "companyId": "ubisoft",
+      "logoAsset": "assets/catalog/logos/services/ubisoft-plus-classics.png",
+      "category": "gaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "7.99"
+      },
+      "cancelUrl": "https://account.ubisoft.com/account-information",
+      "aliases": [
+        "UBISOFT+ CLASSICS",
+        "UBISOFT PLUS CLASSICS",
+        "UBISOFT CLASSICS"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#000000"
+    },
+    {
+      "id": "viaplay-basis",
+      "name": "Viaplay Basis",
+      "companyId": "viaplay",
+      "logoAsset": "assets/catalog/logos/services/viaplay-basis.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "19.99"
+      },
+      "cancelUrl": "https://viaplay.nl/account",
+      "aliases": [
+        "VIAPLAY BASIS",
+        "VIAPLAY MET RECLAME"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#FE365F"
+    },
+    {
+      "id": "viaplay-standaard",
+      "name": "Viaplay Standaard",
+      "companyId": "viaplay",
+      "logoAsset": "assets/catalog/logos/services/viaplay-standaard.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "21.99"
+      },
+      "cancelUrl": "https://viaplay.nl/account",
+      "aliases": [
+        "VIAPLAY",
+        "VIAPLAY.NL",
+        "VIAPLAY GROUP"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#FE365F"
+    },
+    {
+      "id": "videoland-basis",
+      "name": "Videoland Basis",
+      "companyId": "videoland",
+      "logoAsset": "assets/catalog/logos/services/videoland-basis.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "6.99"
+      },
+      "cancelUrl": "https://www.videoland.com/",
+      "aliases": [
+        "VIDEOLAND BASIS",
+        "VIDEOLAND BASIS MET RECLAME"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "videoland-plus",
+      "name": "Videoland Plus",
+      "companyId": "videoland",
+      "logoAsset": "assets/catalog/logos/services/videoland-plus.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "11.99"
+      },
+      "cancelUrl": "https://www.videoland.com/",
+      "aliases": [
+        "VIDEOLAND",
+        "VIDEOLAND.COM",
+        "RTL NEDERLAND"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "videoland-premium",
+      "name": "Videoland Premium",
+      "companyId": "videoland",
+      "logoAsset": "assets/catalog/logos/services/videoland-premium.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "14.99"
+      },
+      "cancelUrl": "https://www.videoland.com/",
+      "aliases": [
+        "VIDEOLAND PREMIUM",
+        "VIDEOLAND 4 SCHERMEN"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
       "id": "vodafone-gigatv",
       "name": "Vodafone GigaTV",
       "companyId": "vodafone",
@@ -1858,6 +4632,44 @@
       "trialDays": 0,
       "verified": false,
       "brandColor": "#E60000"
+    },
+    {
+      "id": "waipu-tv-comfort",
+      "name": "waipu.tv Comfort",
+      "companyId": "waipu-tv",
+      "logoAsset": "assets/catalog/logos/services/waipu-tv-comfort.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "7.49"
+      },
+      "cancelUrl": "https://www.waipu.tv/hilfe/articles/115005862965",
+      "aliases": [
+        "WAIPU.TV COMFORT",
+        "WAIPU COMFORT"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "waipu-tv-perfect-plus",
+      "name": "waipu.tv Perfect Plus",
+      "companyId": "waipu-tv",
+      "logoAsset": "assets/catalog/logos/services/waipu-tv-perfect-plus.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "14.99"
+      },
+      "cancelUrl": "https://www.waipu.tv/hilfe/articles/115005862965",
+      "aliases": [
+        "WAIPU.TV",
+        "WAIPU TV",
+        "EXARING AG",
+        "PAYPAL *EXARING"
+      ],
+      "trialDays": 30,
+      "verified": false
     },
     {
       "id": "wall-street-journal-digital",
@@ -1901,6 +4713,175 @@
       "brandColor": "#231F20"
     },
     {
+      "id": "whoop-life",
+      "name": "WHOOP Life",
+      "companyId": "whoop",
+      "logoAsset": "assets/catalog/logos/services/whoop-life.png",
+      "category": "fitness",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "399.00"
+      },
+      "cancelUrl": "https://support.whoop.com/",
+      "aliases": [
+        "WHOOP LIFE",
+        "WHOOP INC LIFE"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "whoop-one",
+      "name": "WHOOP One",
+      "companyId": "whoop",
+      "logoAsset": "assets/catalog/logos/services/whoop-one.png",
+      "category": "fitness",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "199.00"
+      },
+      "cancelUrl": "https://support.whoop.com/",
+      "aliases": [
+        "WHOOP ONE",
+        "WHOOP INC ONE"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "whoop-peak",
+      "name": "WHOOP Peak",
+      "companyId": "whoop",
+      "logoAsset": "assets/catalog/logos/services/whoop-peak.png",
+      "category": "fitness",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "264.00"
+      },
+      "cancelUrl": "https://support.whoop.com/",
+      "aliases": [
+        "WHOOP INC",
+        "WHOOP.COM",
+        "PAYPAL *WHOOP"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "wolt-plus",
+      "name": "Wolt+",
+      "companyId": "wolt",
+      "logoAsset": "assets/catalog/logos/services/wolt-plus.png",
+      "category": "other",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "4.99"
+      },
+      "cancelUrl": "https://explore.wolt.com/de/deu/wolt-plus",
+      "aliases": [
+        "WOLT+",
+        "WOLT PLUS",
+        "WOLT+ SUBSCRIPTION"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#00C2E8"
+    },
+    {
+      "id": "world-of-warcraft",
+      "name": "World of Warcraft",
+      "companyId": "microsoft",
+      "logoAsset": "assets/catalog/logos/services/world-of-warcraft.png",
+      "category": "gaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "12.99"
+      },
+      "cancelUrl": "https://account.battle.net/subscriptions",
+      "aliases": [
+        "WORLD OF WARCRAFT",
+        "BLIZZ*WORLD OF WARCRAFT"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "wow-filme-serien",
+      "name": "WOW Filme & Serien",
+      "companyId": "wow",
+      "logoAsset": "assets/catalog/logos/services/wow-filme-serien.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "9.98"
+      },
+      "cancelUrl": "https://www.wowtv.de/",
+      "aliases": [
+        "WOW TV",
+        "WOWTV.DE"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "wow-live-sport",
+      "name": "WOW Live-Sport",
+      "companyId": "wow",
+      "logoAsset": "assets/catalog/logos/services/wow-live-sport.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "44.99"
+      },
+      "cancelUrl": "https://www.wowtv.de/",
+      "aliases": [
+        "WOW LIVE-SPORT",
+        "WOW LIVE SPORT"
+      ],
+      "trialDays": 0,
+      "verified": false
+    },
+    {
+      "id": "xbox-game-pass-essential",
+      "name": "Xbox Game Pass Essential",
+      "companyId": "microsoft",
+      "logoAsset": "assets/catalog/logos/services/xbox-game-pass-essential.png",
+      "category": "gaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "8.99"
+      },
+      "cancelUrl": "https://account.microsoft.com/services",
+      "aliases": [
+        "GAME PASS ESSENTIAL",
+        "XBOX GAME PASS ESSENTIAL",
+        "XBOX GAME PASS CORE"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#107C10"
+    },
+    {
+      "id": "xbox-game-pass-premium",
+      "name": "Xbox Game Pass Premium",
+      "companyId": "microsoft",
+      "logoAsset": "assets/catalog/logos/services/xbox-game-pass-premium.png",
+      "category": "gaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "12.99"
+      },
+      "cancelUrl": "https://account.microsoft.com/services",
+      "aliases": [
+        "GAME PASS PREMIUM",
+        "XBOX GAME PASS PREMIUM",
+        "XBOX GAME PASS STANDARD"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#107C10"
+    },
+    {
       "id": "xbox-game-pass-ultimate",
       "name": "Xbox Game Pass Ultimate",
       "companyId": "microsoft",
@@ -1908,7 +4889,7 @@
       "category": "gaming",
       "defaultIntervalMonths": 1,
       "defaultPrices": {
-        "EUR": "17.99"
+        "EUR": "20.99"
       },
       "cancelUrl": "https://account.microsoft.com/services",
       "aliases": [
@@ -1922,6 +4903,25 @@
       "brandColor": "#107C10"
     },
     {
+      "id": "yazio-pro",
+      "name": "YAZIO PRO",
+      "companyId": "yazio",
+      "logoAsset": "assets/catalog/logos/services/yazio-pro.png",
+      "category": "fitness",
+      "defaultIntervalMonths": 12,
+      "defaultPrices": {
+        "EUR": "83.90"
+      },
+      "cancelUrl": "https://play.google.com/store/account/subscriptions",
+      "aliases": [
+        "YAZIO GMBH",
+        "YAZIO PRO"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#09DAA9"
+    },
+    {
       "id": "youtube-music-premium",
       "name": "YouTube Music Premium",
       "companyId": "google",
@@ -1929,7 +4929,7 @@
       "category": "streaming",
       "defaultIntervalMonths": 1,
       "defaultPrices": {
-        "EUR": "10.99"
+        "EUR": "11.99"
       },
       "cancelUrl": "https://www.youtube.com/paid_memberships",
       "aliases": [
@@ -1942,6 +4942,25 @@
       "brandColor": "#FF0000"
     },
     {
+      "id": "youtube-music-premium-family",
+      "name": "YouTube Music Premium Family",
+      "companyId": "google",
+      "logoAsset": "assets/catalog/logos/services/youtube-music-premium-family.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "18.99"
+      },
+      "cancelUrl": "https://www.youtube.com/paid_memberships",
+      "aliases": [
+        "YOUTUBE MUSIC FAMILY",
+        "GOOGLE *YOUTUBE MUSIC FAMILY"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#FF0000"
+    },
+    {
       "id": "youtube-premium",
       "name": "YouTube Premium",
       "companyId": "google",
@@ -1949,7 +4968,7 @@
       "category": "streaming",
       "defaultIntervalMonths": 1,
       "defaultPrices": {
-        "EUR": "12.99"
+        "EUR": "14.99"
       },
       "cancelUrl": "https://www.youtube.com/paid_memberships",
       "aliases": [
@@ -1961,6 +4980,128 @@
       "trialDays": 30,
       "verified": false,
       "brandColor": "#FF0000"
+    },
+    {
+      "id": "youtube-premium-family",
+      "name": "YouTube Premium Family",
+      "companyId": "google",
+      "logoAsset": "assets/catalog/logos/services/youtube-premium-family.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "27.99"
+      },
+      "cancelUrl": "https://www.youtube.com/paid_memberships",
+      "aliases": [
+        "YOUTUBE PREMIUM FAMILY",
+        "GOOGLE *YOUTUBE FAMILY"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#FF0000"
+    },
+    {
+      "id": "youtube-premium-lite",
+      "name": "YouTube Premium Lite",
+      "companyId": "google",
+      "logoAsset": "assets/catalog/logos/services/youtube-premium-lite.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "7.99"
+      },
+      "cancelUrl": "https://www.youtube.com/paid_memberships",
+      "aliases": [
+        "YOUTUBE PREMIUM LITE",
+        "GOOGLE *YOUTUBE LITE"
+      ],
+      "trialDays": 0,
+      "verified": false,
+      "brandColor": "#FF0000"
+    },
+    {
+      "id": "zattoo-premium",
+      "name": "Zattoo Premium",
+      "companyId": "zattoo",
+      "logoAsset": "assets/catalog/logos/services/zattoo-premium.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "9.99"
+      },
+      "cancelUrl": "https://support.zattoo.com/hc/en-us/articles/33250883451154-Cancel-your-Zattoo-subscription",
+      "aliases": [
+        "ZATTOO PREMIUM",
+        "ZATTOO PREMIUM HD"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#F96522"
+    },
+    {
+      "id": "zattoo-smart-hd",
+      "name": "Zattoo Smart HD",
+      "companyId": "zattoo",
+      "logoAsset": "assets/catalog/logos/services/zattoo-smart-hd.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "6.99"
+      },
+      "cancelUrl": "https://support.zattoo.com/hc/en-us/articles/33250883451154-Cancel-your-Zattoo-subscription",
+      "aliases": [
+        "ZATTOO.COM",
+        "ZATTOO EUROPA AG",
+        "PAYPAL *ZATTOO"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#F96522"
+    },
+    {
+      "id": "zattoo-ultimate",
+      "name": "Zattoo Ultimate",
+      "companyId": "zattoo",
+      "logoAsset": "assets/catalog/logos/services/zattoo-ultimate.png",
+      "category": "streaming",
+      "defaultIntervalMonths": 1,
+      "defaultPrices": {
+        "EUR": "13.99"
+      },
+      "cancelUrl": "https://support.zattoo.com/hc/en-us/articles/33250883451154-Cancel-your-Zattoo-subscription",
+      "aliases": [
+        "ZATTOO ULTIMATE",
+        "ZATTOO ULTIMATE HD"
+      ],
+      "trialDays": 30,
+      "verified": false,
+      "brandColor": "#F96522"
     }
+  ],
+  "popular": [
+    "netflix-standard",
+    "spotify-premium",
+    "amazon-prime",
+    "disney-plus",
+    "youtube-premium",
+    "apple-music",
+    "chatgpt-plus",
+    "icloud-plus-50gb",
+    "google-one-100gb",
+    "microsoft-365-personal",
+    "xbox-game-pass-ultimate",
+    "playstation-plus-essential",
+    "apple-tv-plus",
+    "max-standard",
+    "paramount-plus",
+    "dazn",
+    "crunchyroll",
+    "audible",
+    "amazon-music-unlimited",
+    "nintendo-switch-online",
+    "duolingo-super",
+    "canva-pro",
+    "google-ai-pro",
+    "claude-pro"
   ]
 }
