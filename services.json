@@ -1057,7 +1057,7 @@
     },
     {
       "id": "amazon-music-unlimited",
-      "name": "Amazon Music Unlimited",
+      "name": "Amazon Music Unlimited (without Prime)",
       "companyId": "amazon",
       "logoAsset": "assets/catalog/logos/services/amazon-music-unlimited.png",
       "category": "streaming",
@@ -1142,7 +1142,7 @@
       "category": "streaming",
       "defaultIntervalMonths": 12,
       "defaultPrices": {
-        "EUR": "89.00"
+        "EUR": "89.90"
       },
       "cancelUrl": "https://www.amazon.de/gp/primecentral",
       "aliases": [
@@ -1314,7 +1314,7 @@
     },
     {
       "id": "apple-tv-plus",
-      "name": "Apple TV+",
+      "name": "Apple TV",
       "companyId": "apple",
       "logoAsset": "assets/catalog/logos/services/apple-tv-plus.png",
       "category": "streaming",
@@ -1749,7 +1749,7 @@
     },
     {
       "id": "chatgpt-pro",
-      "name": "ChatGPT Pro",
+      "name": "ChatGPT Pro (20x)",
       "companyId": "openai",
       "logoAsset": "assets/catalog/logos/services/chatgpt-pro.png",
       "category": "software",
@@ -1869,7 +1869,7 @@
     },
     {
       "id": "dazn",
-      "name": "DAZN",
+      "name": "DAZN (12-month plan)",
       "companyId": "dazn",
       "logoAsset": "assets/catalog/logos/services/dazn.png",
       "category": "streaming",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": "fitbit-premium",
-      "name": "Fitbit Premium",
+      "name": "Google Health Premium",
       "companyId": "google",
       "logoAsset": "assets/catalog/logos/services/fitbit-premium.png",
       "category": "fitness",
@@ -2340,12 +2340,13 @@
       "defaultPrices": {
         "EUR": "8.99"
       },
-      "cancelUrl": "https://support.google.com/fitbit/answer/14236809",
+      "cancelUrl": "https://support.google.com/googlehealth/answer/18072871",
       "aliases": [
         "FITBIT",
         "FITBIT PREMIUM",
         "GOOGLE *FITBIT",
-        "FITBIT PAY"
+        "FITBIT PAY",
+        "GOOGLE HEALTH PREMIUM"
       ],
       "trialDays": 90,
       "verified": false,
@@ -2846,7 +2847,7 @@
       "category": "other",
       "defaultIntervalMonths": 1,
       "defaultPrices": {
-        "EUR": "9.99"
+        "EUR": "11.75"
       },
       "cancelUrl": "https://www.amazon.de/kindle-dbs/hz/subscribe/ku",
       "aliases": [
@@ -3101,7 +3102,7 @@
     },
     {
       "id": "microsoft-365-personal",
-      "name": "Microsoft 365 Personal",
+      "name": "Microsoft 365 Single",
       "companyId": "microsoft",
       "logoAsset": "assets/catalog/logos/services/microsoft-365-personal.png",
       "category": "software",
@@ -3114,7 +3115,9 @@
         "MICROSOFT 365",
         "MSFT *OFFICE",
         "MICROSOFT*SUBSCRIPTION",
-        "MSFT *E0100"
+        "MSFT *E0100",
+        "MICROSOFT 365 SINGLE",
+        "MICROSOFT 365 PERSONAL"
       ],
       "trialDays": 30,
       "verified": false,
@@ -3728,7 +3731,7 @@
       "defaultPrices": {
         "EUR": "71.99"
       },
-      "cancelUrl": "https://www.playstation.com/support/store/cancel-ps-store-subscription/",
+      "cancelUrl": "https://www.playstation.com/de-de/support/store/cancel-ps-store-subscription/",
       "aliases": [
         "PLAYSTATION PLUS",
         "PS PLUS",
@@ -3749,7 +3752,7 @@
       "defaultPrices": {
         "EUR": "125.99"
       },
-      "cancelUrl": "https://www.playstation.com/support/store/cancel-ps-store-subscription/",
+      "cancelUrl": "https://www.playstation.com/de-de/support/store/cancel-ps-store-subscription/",
       "aliases": [
         "PS PLUS EXTRA",
         "PLAYSTATION PLUS EXTRA",
@@ -3769,7 +3772,7 @@
       "defaultPrices": {
         "EUR": "151.99"
       },
-      "cancelUrl": "https://www.playstation.com/support/store/cancel-ps-store-subscription/",
+      "cancelUrl": "https://www.playstation.com/de-de/support/store/cancel-ps-store-subscription/",
       "aliases": [
         "PS PLUS PREMIUM",
         "PLAYSTATION PLUS PREMIUM",
